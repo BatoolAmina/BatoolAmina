@@ -12,10 +12,9 @@
 
 ## 💼 Skills
 - **Languages:** HTML, CSS, JavaScript, Python, SQL
-- **Front-End Development:** React, Bootstrap, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Databases:** MongoDB, SQL
-- **Tools:** Git, GitHub, Visual Studio Code, Power Platform
+- **Tools:** Git, GitHub, Visual Studio Code
 
 ## 🌟 Notable Projects
 - [**PyPassword Generator**](https://github.com/BatoolAmina/CODSOFT/blob/main/PasswordGenerator.py): A Python-based password generator to create secure passwords.

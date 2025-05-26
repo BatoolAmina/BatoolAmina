@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=BatoolAmina&color=blue)
 
 ## 🌐 About Me
-- 🎓 I'm a pre-final year B.Tech student with a passion for web development.
+- 🎓 I'm a final year B.Tech student with a passion for web development.
 - 🌱 Currently learning and exploring **front-end development** and **JavaScript frameworks**.
 - 💻 Interned as a **Front-End Developer** at 1 Stop and as a **Python Developer** at Codsoft.
 - 🎉 Completed various certification courses in **SQL**, **Python**, **HTML, CSS, and JavaScript**.
@@ -30,7 +30,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BatoolAmina&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/batool-a-82a995250/)
+- [LinkedIn](https://www.linkedin.com/in/batool-amina/)
 - [Email](mailto:batool.amina.110@gmail.com)
 
 ## 🪶 GSSOC(24) Badges

@@ -6,7 +6,11 @@
 
 🎓 Final year B.Tech student passionate about web development  
 💡 Always exploring new things in front-end and JavaScript frameworks  
-💻 Past intern: Front-End Developer at 1 Stop, Python Developer at Codsoft  
+💻 Past Internships:
+- **Front-End Developer Intern** at *1 Stop*
+- **Python Developer Intern** at *Codsoft*
+- **Front-End Development Intern** at *Code Alpha*
+- **Web Development Intern** at *CollegeTips.in*  
 🏅 Certified in SQL, Python, HTML, CSS, JavaScript  
 🌱 Building web apps & solving real-world problems  
 🚀 2024 Goals: Contribute to open source  

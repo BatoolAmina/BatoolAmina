@@ -4,27 +4,37 @@
 
 ## 🌟 About Me
 
-🎓 Final-year B.Tech (Computer Science) student with a strong foundation in web development and full-stack technologies  
-💡 Passionate about building scalable, user-friendly web solutions using modern front-end frameworks and backend APIs  
-🔁 Active open-source contributor & hackathon enthusiast  
-🛠️ Committed to solving real-world challenges through tech innovation
+🎓 Final-year B.Tech (Computer Science) student with a strong foundation in full-stack web development  
+💡 Passionate about developing scalable, accessible, and user-centric digital solutions  
+🔁 Active open-source contributor and hackathon enthusiast  
+🛠️ Committed to solving real-world challenges through innovative technology
 
-### 💼 Internship Experience
+---
+
+## 💼 Internship Experience
 
 - 💻 **Front-End Development Intern** – *1 Stop*  
-- 🐍 **Python Development Intern** – *Codsoft*  
+- 🐍 **Python Developer Intern** – *Codsoft*  
 - 🌐 **Front-End Development Intern** – *CodeAlpha*  
-- 📨 **Web Development Intern** – *CollegeTips.in*
+- 📢 **Web Development Intern** – *CollegeTips.in*
 
-### 📜 Certifications
-- SQL • Python • HTML • CSS • JavaScript
+---
 
-### 🎯 2024 Goals
-- ✅ Contribute to open-source communities  
+## 📜 Certifications
+
+- Python Programming  
+- SQL Fundamentals  
+- HTML, CSS, and JavaScript
+
+---
+
+## 🎯 2024 Goals
+
+- ✅ Actively contribute to open-source communities  
 - ✅ Collaborate on impactful tech projects  
-- ✅ Expand skills in React.js, MongoDB & API integrations  
+- ✅ Deepen expertise in React.js, MongoDB, and backend APIs  
 
-✨ *Fun Fact:* I'm a problem solver at heart — from coding puzzles to learning foreign languages, I thrive on challenges!
+> ✨ *Fun Fact:* I thrive on problem-solving — whether it's building efficient systems or picking up new languages, I'm always up for the challenge.
 
 ---
 
@@ -40,20 +50,20 @@
 
 ### 🌐 Web Applications
 
-- 🔹 [**DLC Chatbot**](https://github.com/BatoolAmina/DLC-Chatbot): AI-powered chatbot integrated with ChatGPT & Dialogflow to enhance digital literacy among elderly users  
-- 🔹 [**DLC Website**](https://github.com/BatoolAmina/DLC_Website_BatoolAmina): Responsive website for a digital awareness course with chatbot integration  
-- 🔹 [**Pet-Friendly City**](https://github.com/BatoolAmina/Pet-Friendly-City): Hackathon-winning concept for making cities more pet inclusive using tech-based civic planning  
-- 🔹 [**Hidden Hiring Gems**](https://github.com/BatoolAmina/Hidden-Hiring-Gems): Curated list of underrated job portals for techies  
-- 🔹 [**Personal Portfolio**](https://github.com/BatoolAmina/portfolio): Modern portfolio site built with HTML, CSS and JavaScript
-- 🔹 [**CollegeTips.in**](https://github.com/BatoolAmina/CollegeTips.in): Automation tools & resources for outreach during internship drive  
+- 🔹 [**DLC Chatbot**](https://github.com/BatoolAmina/DLC-Chatbot): AI-powered chatbot built with ChatGPT API & Dialogflow to improve digital literacy for elderly users  
+- 🔹 [**DLC Website**](https://github.com/BatoolAmina/DLC_Website_BatoolAmina): Responsive and accessible site promoting digital awareness for all age groups  
+- 🔹 [**Pet-Friendly City**](https://github.com/BatoolAmina/Pet-Friendly-City): Hackathon solution using tech for inclusive urban pet infrastructure  
+- 🔹 [**Hidden Hiring Gems**](https://github.com/BatoolAmina/Hidden-Hiring-Gems): Curated job board of underrated tech hiring platforms  
+- 🔹 [**Personal Portfolio**](https://github.com/BatoolAmina/portfolio): Clean, modern portfolio built with HTML, CSS & JavaScript  
+- 🔹 [**CollegeTips.in**](https://github.com/BatoolAmina/CollegeTips.in): Automation scripts and landing tools for internship campaign outreach
 
-### 🐍 Python Projects
+### 🐍 Python Scripts
 
 - ✅ [PyPassword Generator](https://github.com/BatoolAmina/CODSOFT/blob/main/PasswordGenerator.py)  
 - ✅ [Calculator](https://github.com/BatoolAmina/CODSOFT/blob/main/Calculator.py)  
 - ✅ [Contact Book](https://github.com/BatoolAmina/CODSOFT/blob/main/ContactBook.py)  
 - ✅ [Rock Paper Scissors](https://github.com/BatoolAmina/CODSOFT/blob/main/RockPaperScissor.py)  
-- ✅ [To-Do List](https://github.com/BatoolAmina/CODSOFT/blob/main/ToDoList.py)  
+- ✅ [To-Do List](https://github.com/BatoolAmina/CODSOFT/blob/main/ToDoList.py)
 
 ### 🧮 HTML/CSS Projects
 
@@ -64,10 +74,10 @@
 
 ## 📈 GitHub Insights
 
-![Batool's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatoolAmina&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BatoolAmina&layout=compact&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BatoolAmina&theme=radical)](https://git.io/streak-stats)
-[![Trophies](https://github-profile-trophy.vercel.app/?username=BatoolAmina&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![Batool's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatoolAmina&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BatoolAmina&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BatoolAmina&theme=radical)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BatoolAmina&theme=radical)
 
 ---
 
@@ -93,8 +103,10 @@
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batool-amina/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Batool_Amina786)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/aminaaa.batool.786/)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:batool.amina.110@gmail.com)
 
 ---
 
-🚀 *Open to freelance work, internships, and collaborations in full-stack development and software engineering.*
+🚀 *Actively seeking internships, freelance opportunities, and collaborations in full-stack development and software engineering.*

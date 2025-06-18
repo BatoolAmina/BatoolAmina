@@ -9,7 +9,7 @@
 💻 Past intern: Front-End Developer at 1 Stop, Python Developer at Codsoft  
 🏅 Certified in SQL, Python, HTML, CSS, JavaScript  
 🌱 Building web apps & solving real-world problems  
-🚀 2024 Goals: Contribute to open source, master React & Node.js  
+🚀 2024 Goals: Contribute to open source 
 ✨ Fun fact: I love solving puzzles and learning new languages!  
 
 ## 🛠️ Skills

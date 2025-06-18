@@ -1,6 +1,6 @@
 # Hi there, I'm Batool Amina 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=BatoolAmina&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=BatoolAmina&color=red)
 
 ## 🌐 About Me
 - 🎓 I'm a final year B.Tech student with a passion for web development.

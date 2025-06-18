@@ -9,24 +9,38 @@
 💻 Past intern: Front-End Developer at 1 Stop, Python Developer at Codsoft  
 🏅 Certified in SQL, Python, HTML, CSS, JavaScript  
 🌱 Building web apps & solving real-world problems  
-🚀 2024 Goals: Contribute to open source 
+🚀 2024 Goals: Contribute to open source  
 ✨ Fun fact: I love solving puzzles and learning new languages!  
 
 ## 🛠️ Skills
 
 | Languages | Frameworks / Libraries | Databases | Tools |
-|-----------|-----------------------|-----------|-------|
+|-----------|------------------------|-----------|-------|
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) |
 
 ## 🚀 Projects
 
-- [**PyPassword Generator**](https://github.com/BatoolAmina/CODSOFT/blob/main/PasswordGenerator.py): Secure password generator in Python.
-- [**Calculator**](https://github.com/BatoolAmina/CODSOFT/blob/main/Calculator.py): Basic calculator app.
-- [**Contact Book**](https://github.com/BatoolAmina/CODSOFT/blob/main/ContactBook.py): Manage your contacts easily.
-- [**Rock Paper Scissors**](https://github.com/BatoolAmina/CODSOFT/blob/main/RockPaperScissor.py): Classic game in Python.
-- [**To-Do List**](https://github.com/BatoolAmina/CODSOFT/blob/main/ToDoList.py): Simple task manager.
-- [**Web-Based Calculator**](https://github.com/BatoolAmina/HtmlAndBootstrapCalculator): Responsive online calculator.
-- [**Single Page Website**](https://github.com/BatoolAmina/SinglePageWebsite): Elegant single-page site.
+### 🌐 Web Development Projects
+
+- [**DLC Chatbot**](https://github.com/BatoolAmina/DLC-Chatbot): AI-based chatbot integrated into a digital literacy platform (ChatGPT API, Dialogflow)
+- [**DLC Website**](https://github.com/BatoolAmina/DLC_Website_BatoolAmina): Interactive front-end for the Digital Literacy Course using modern UI principles
+- [**Pet-Friendly City**](https://github.com/BatoolAmina/Pet-Friendly-City): Hackathon project aimed at improving pet infrastructure in urban areas
+- [**Hidden Hiring Gems**](https://github.com/BatoolAmina/Hidden-Hiring-Gems): Curated list of underrated tech hiring platforms
+- [**Personal Portfolio**](https://github.com/BatoolAmina/portfolio): Fully responsive portfolio site built with React & Tailwind CSS
+- [**CollegeTips.in**](https://github.com/BatoolAmina/CollegeTips.in): Internship outreach email automation and resources
+
+### 🐍 Python Mini Projects
+
+- [**PyPassword Generator**](https://github.com/BatoolAmina/CODSOFT/blob/main/PasswordGenerator.py): Secure password generator
+- [**Calculator**](https://github.com/BatoolAmina/CODSOFT/blob/main/Calculator.py): Basic arithmetic calculator
+- [**Contact Book**](https://github.com/BatoolAmina/CODSOFT/blob/main/ContactBook.py): Store and manage contact information
+- [**Rock Paper Scissors**](https://github.com/BatoolAmina/CODSOFT/blob/main/RockPaperScissor.py): CLI-based game logic in Python
+- [**To-Do List**](https://github.com/BatoolAmina/CODSOFT/blob/main/ToDoList.py): Task manager with basic CRUD
+
+### 🧮 HTML/CSS Projects
+
+- [**Web-Based Calculator**](https://github.com/BatoolAmina/HtmlAndBootstrapCalculator): Stylish and responsive calculator using Bootstrap
+- [**Single Page Website**](https://github.com/BatoolAmina/SinglePageWebsite): Modern landing page with scrollable content sections
 
 ## 📊 GitHub Stats
 
@@ -42,7 +56,7 @@
 
 ## 🪶 GSSOC(24) Badges
 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>More actions
+<div align='center' style='display:flex; flex-wrap:wrap; gap:10px;'>
   <a href="https://gssoc.girlscript.tech/leaderboard">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />

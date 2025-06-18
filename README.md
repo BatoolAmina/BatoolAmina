@@ -11,9 +11,9 @@
 
 ### 💼 Internship Experience
 
-- 💻 **Front-End Developer Intern** – *1 Stop*  
-- 🐍 **Python Developer Intern** – *Codsoft*  
-- 🌐 **Front-End Developer Intern** – *Code Alpha*  
+- 💻 **Front-End Development Intern** – *1 Stop*  
+- 🐍 **Python Development Intern** – *Codsoft*  
+- 🌐 **Front-End Development Intern** – *CodeAlpha*  
 - 📨 **Web Development Intern** – *CollegeTips.in*
 
 ### 📜 Certifications
@@ -44,7 +44,7 @@
 - 🔹 [**DLC Website**](https://github.com/BatoolAmina/DLC_Website_BatoolAmina): Responsive website for a digital awareness course with chatbot integration  
 - 🔹 [**Pet-Friendly City**](https://github.com/BatoolAmina/Pet-Friendly-City): Hackathon-winning concept for making cities more pet inclusive using tech-based civic planning  
 - 🔹 [**Hidden Hiring Gems**](https://github.com/BatoolAmina/Hidden-Hiring-Gems): Curated list of underrated job portals for techies  
-- 🔹 [**Personal Portfolio**](https://github.com/BatoolAmina/portfolio): Modern portfolio site built with React & Tailwind CSS  
+- 🔹 [**Personal Portfolio**](https://github.com/BatoolAmina/portfolio): Modern portfolio site built with HTML, CSS and JavaScript
 - 🔹 [**CollegeTips.in**](https://github.com/BatoolAmina/CollegeTips.in): Automation tools & resources for outreach during internship drive  
 
 ### 🐍 Python Projects

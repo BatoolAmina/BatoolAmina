@@ -13,10 +13,10 @@
 
 ## 💼 Internship Experience
 
-- 💻 **Front-End Development Intern** – *1 Stop*  
-- 🐍 **Python Developer Intern** – *Codsoft*  
-- 🌐 **Front-End Development Intern** – *CodeAlpha*  
 - 📢 **Web Development Intern** – *CollegeTips.in*
+- - 🌐 **Front-End Development Intern** – *CodeAlpha*  
+- 🐍 **Python Developer Intern** – *Codsoft*  
+- 💻 **Front-End Development Intern** – *1 Stop*  
 
 ---
 

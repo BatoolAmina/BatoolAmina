@@ -32,12 +32,12 @@ Committed to solving real-world challenges through innovative technology
 
 ### Web Applications
 
-- [**DLC Chatbot**](https://github.com/BatoolAmina/DLC-Chatbot): AI-powered chatbot built with ChatGPT API & Dialogflow to improve digital literacy for elderly users  
-- [**DLC Website**](https://github.com/BatoolAmina/DLC_Website_BatoolAmina): Responsive and accessible site promoting digital awareness for all age groups  
-- [**Pet-Friendly City**](https://github.com/BatoolAmina/Pet-Friendly-City): Hackathon solution using tech for inclusive urban pet infrastructure  
-- [**Hidden Hiring Gems**](https://github.com/BatoolAmina/Hidden-Hiring-Gems): Curated job board of underrated tech hiring platforms  
-- [**Personal Portfolio**](https://github.com/BatoolAmina/portfolio): Clean, modern portfolio built with HTML, CSS & JavaScript  
-- [**CollegeTips.in**](https://github.com/BatoolAmina/CollegeTips.in): Automation scripts and landing tools for internship campaign outreach
+- [DLC Chatbot](https://github.com/BatoolAmina/DLC-Chatbot)
+- [DLC Website](https://github.com/BatoolAmina/DLC_Website_BatoolAmina)
+- [Pet-Friendly City](https://github.com/BatoolAmina/Pet-Friendly-City)
+- [Hidden Hiring Gems](https://github.com/BatoolAmina/Hidden-Hiring-Gems) 
+- [Personal Portfolio](https://github.com/BatoolAmina/portfolio)
+- [CollegeTips.in](https://github.com/BatoolAmina/CollegeTips.in)
 
 ### Python Scripts
 

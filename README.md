@@ -55,13 +55,13 @@ Committed to solving real-world challenges through innovative technology
 ## 📈 GitHub Insights
 
 ## 📊 GitHub Stats
-![Batool's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BatoolAmina&show_icons=true&theme=tokyonight)
+![Batool's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BatoolAmina&show_icons=true)
 ## 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BatoolAmina&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BatoolAmina&layout=compact)
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=BatoolAmina&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=BatoolAmina)
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BatoolAmina&theme=tokyonight)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BatoolAmina)
 
 ## GSSoC '24 Badges
 

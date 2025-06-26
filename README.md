@@ -58,7 +58,8 @@ Committed to solving real-world challenges through innovative technology
 ![Batool's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BatoolAmina&show_icons=true)
 ## 🧠 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BatoolAmina&layout=compact)
-
+## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=BatoolAmina)](https://streak-stats.demolab.com?user=BatoolAmina)
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BatoolAmina)
 

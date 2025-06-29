@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Batool Amina
+# Hi, I'm Batool Amina
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BatoolAmina&color=red)
 

@@ -52,18 +52,18 @@ Final-year Computer Science student specializing in full-stack web development. 
 
 ## Certifications & Achievements
 
-- **🏆 First Place Winner** | [cite_start]Siemens Healthineers SHIFT Innovation Think Tank Program 
-- **🎓 Postman API Fundamentals** | [cite_start]Student Expert 
-- **🤖 Career Essentials in Generative AI** | [cite_start]Microsoft & LinkedIn 
-- **🚀 GirlScript Summer of Code 2024** | [cite_start]Extended Contributor 
+- **🏆 First Place Winner** | Siemens Healthineers SHIFT Innovation Think Tank Program 
+- **🎓 Postman API Fundamentals** | Student Expert 
+- **🤖 Career Essentials in Generative AI** | Microsoft & LinkedIn 
+- **🚀 GirlScript Summer of Code 2024** | Extended Contributor 
 - **💼 Virtual Experience Programs (Forage)**:
-  - [cite_start]Deloitte Australia Virtual Experience [cite: 23]
-  - [cite_start]Skyscanner Travel Technology Virtual Experience [cite: 24]
-  - [cite_start]Accenture Virtual Experience [cite: 25]
+  - Deloitte Australia Virtual Experience
+  - Skyscanner Travel Technology Virtual Experience
+  - Accenture Virtual Experience
 - **💻 Technical Certifications**:
   - Python Programming
-  - [cite_start]SQL Fundamentals (CRUD Operations) [cite: 6]
-  - [cite_start]Modern Web Development (HTML, CSS, and JavaScript) [cite: 4, 5]
+  - SQL Fundamentals (CRUD Operations)
+  - Modern Web Development (HTML, CSS, and JavaScript)
 
 ---
 

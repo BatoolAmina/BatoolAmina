@@ -24,8 +24,6 @@ Final-year Computer Science student specializing in full-stack web development. 
   - A community-centric platform designed to facilitate engagement and connectivity for senior citizens.
 - **[Bandhu Enterprises](https://github.com/BatoolAmina/bandhu-enterprises)**
   - A social impact project focused on providing professional digital infrastructure for community-based services.
-- **[DLC Chatbot](https://github.com/BatoolAmina/DLC-Chatbot)**
-  - An intelligent conversational interface built for community support and engagement.
 - **[Pet-Friendly City](https://github.com/BatoolAmina/Pet-Friendly-City)**
   - A platform to locate and rate pet-friendly spots in urban areas.
 - **[Hidden Hiring Gems](https://github.com/BatoolAmina/Hidden-Hiring-Gems)**

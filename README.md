@@ -61,15 +61,7 @@ Final-year Computer Science student specializing in full-stack web development. 
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterhstq.vercel.app/api?username=BatoolAmina&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" alt="Batool's GitHub Stats" />
-  
-  <br />
-
-  <img src="https://github-readme-stats-git-masterhstq.vercel.app/api/top-langs/?username=BatoolAmina&layout=compact&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-  
-  <br />
-
-  <img src="https://streak-stats.demolab.com?user=BatoolAmina&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=BatoolAmina&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---

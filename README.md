@@ -58,14 +58,6 @@ Final-year Computer Science student specializing in full-stack web development. 
 
 ---
 
-## GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=BatoolAmina&hide_border=true" alt="Github Streak" />
-</div>
-
----
-
 ## GSSoC '24 Badges
 
 <div align='center' style='display:flex; flex-wrap:wrap; gap:10px;'>

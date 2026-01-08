@@ -58,10 +58,10 @@ Final-year Computer Science student specializing in full-stack web development. 
 
 ---
 
-## GitHub Analytics
+## GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=BatoolAmina&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_bust=1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=BatoolAmina&hide_border=true" alt="Github Streak" />
 </div>
 
 ---

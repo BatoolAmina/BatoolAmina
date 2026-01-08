@@ -18,7 +18,7 @@ Final-year Computer Science student specializing in full-stack web development. 
 
 ### Full-Stack & Web Applications
 
-- **[Pro Plagiarism Checker](https://github.com/BatoolAmina/PlagiarismCheck)**
+- **[Plagiarism Checker](https://github.com/BatoolAmina/PlagiarismCheck)**
   - A Streamlit-based application for multi-format document analysis (.pdf, .docx, .txt). Features a three-stage detection engine checking against academic and web sources with interactive similarity highlighting and downloadable reports.
 - **[SilverConnect](https://silver-connect-blush.vercel.app/)**
   - A community-centric platform designed to facilitate engagement and connectivity for senior citizens.
@@ -50,11 +50,20 @@ Final-year Computer Science student specializing in full-stack web development. 
 - **Python Developer Intern** – Codsoft
 - **Front-End Development Intern** – 1 Stop
 
-## Certifications
+## Certifications & Achievements
 
-- Python Programming
-- SQL Fundamentals
-- HTML, CSS, and JavaScript
+- **🏆 First Place Winner** | [cite_start]Siemens Healthineers SHIFT Innovation Think Tank Program 
+- **🎓 Postman API Fundamentals** | [cite_start]Student Expert 
+- **🤖 Career Essentials in Generative AI** | [cite_start]Microsoft & LinkedIn 
+- **🚀 GirlScript Summer of Code 2024** | [cite_start]Extended Contributor 
+- **💼 Virtual Experience Programs (Forage)**:
+  - [cite_start]Deloitte Australia Virtual Experience [cite: 23]
+  - [cite_start]Skyscanner Travel Technology Virtual Experience [cite: 24]
+  - [cite_start]Accenture Virtual Experience [cite: 25]
+- **💻 Technical Certifications**:
+  - Python Programming
+  - [cite_start]SQL Fundamentals (CRUD Operations) [cite: 6]
+  - [cite_start]Modern Web Development (HTML, CSS, and JavaScript) [cite: 4, 5]
 
 ---
 
@@ -80,7 +89,6 @@ Final-year Computer Science student specializing in full-stack web development. 
 ## Contact Information
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batool-amina/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Batool_Amina786)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:batool.amina.110@gmail.com)
 
 Actively seeking internships, freelance opportunities, and collaborations in software engineering.

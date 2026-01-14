@@ -20,7 +20,7 @@ Final-year Computer Science student specializing in full-stack web development. 
 
 - **[Plagiarism Checker](https://github.com/BatoolAmina/PlagiarismCheck)**
   - A Streamlit-based application for multi-format document analysis (.pdf, .docx, .txt). Features a three-stage detection engine checking against academic and web sources with interactive similarity highlighting and downloadable reports.
-- **[SilverConnect](https://silver-connect-blush.vercel.app/)**
+- **[SilverConnect](https://silver-connection.vercel.app/)**
   - A community-centric platform designed to facilitate engagement and connectivity for senior citizens.
 - **[Bandhu Enterprises](https://github.com/BatoolAmina/bandhu-enterprises)**
   - A social impact project focused on providing professional digital infrastructure for community-based services.

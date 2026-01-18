@@ -24,9 +24,9 @@ Final-year Computer Science student specializing in full-stack web development. 
   - A community-centric platform designed to facilitate engagement and connectivity for senior citizens.
 - **[Bandhu Enterprises](https://github.com/BatoolAmina/bandhu-enterprises)**
   - A social impact project focused on providing professional digital infrastructure for community-based services.
-- **[Pet-Friendly City](https://github.com/BatoolAmina/Pet-Friendly-City)**
+- **[Pet-Friendly City](https://batoolamina.github.io/Pet-Friendly-City/)**
   - A platform to locate and rate pet-friendly spots in urban areas.
-- **[Hidden Hiring Gems](https://github.com/BatoolAmina/Hidden-Hiring-Gems)**
+- **[Hidden Hiring Gems](https://batoolamina.github.io/Hidden-Hiring-Gems/)**
   - A curated job board for under-the-radar career opportunities.
 - **[CollegeTips.in](https://github.com/BatoolAmina/CollegeTips.in)**
   - Professional web development work focused on student resources and UI optimization.
@@ -34,7 +34,6 @@ Final-year Computer Science student specializing in full-stack web development. 
 ### Python & Automation
 
 - **[PyPassword Generator](https://github.com/BatoolAmina/CODSOFT/blob/main/PasswordGenerator.py)**
-- **[Task Management Suite](https://github.com/BatoolAmina/CODSOFT)**
 - **[Calculator](https://github.com/BatoolAmina/CODSOFT/blob/main/Calculator.py)**
 - **[Contact Book](https://github.com/BatoolAmina/CODSOFT/blob/main/ContactBook.py)**
 - **[Rock Paper Scissors Logic](https://github.com/BatoolAmina/CODSOFT/blob/main/RockPaperScissor.py)**

@@ -18,8 +18,6 @@ Final-year Computer Science student specializing in full-stack web development. 
 
 ## 🌟 Featured Projects
 
-### 🚀 Flagship Projects
-
 - **[LUMINA 1.0](https://lumina-chatbot-app-by-batool.vercel.app/)**
   - Full-stack AI orchestration platform for intelligent, secure, and real-time interactions.
   - Integrated LLM-powered assistance with modern UI.
@@ -31,10 +29,6 @@ Final-year Computer Science student specializing in full-stack web development. 
   - Built with NLP + LLM integration for contextual responses.
   - **Tech:** Next.js, Flask, Hugging Face  
   - 🔗 [Frontend](https://github.com/BatoolAmina/mental_health_frontend) | [Backend](https://github.com/BatoolAmina/mental-health-backend)
-
----
-
-### 💻 Full-Stack & Web Applications
 
 - **[SilverConnect](https://silver-connection.vercel.app/)**
   - Platform connecting elderly users with verified helpers.
@@ -64,10 +58,6 @@ Final-year Computer Science student specializing in full-stack web development. 
 - **[CollegeTips.in](https://github.com/BatoolAmina/CollegeTips.in)**
   - Professional web development focused on student resources and UI optimization.
   - 🔗 [GitHub](https://github.com/BatoolAmina/CollegeTips.in)
-
----
-
-### 🐍 Python & Automation
 
 - **[PyPassword Generator](https://github.com/BatoolAmina/CODSOFT/blob/main/PasswordGenerator.py)**
   - Secure password generator with customizable complexity.

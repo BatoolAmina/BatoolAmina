@@ -8,58 +8,9 @@ Final-year Computer Science student specializing in full-stack web development. 
 
 ## 🚀 Technical Skills
 
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
----
-
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
-
----
-
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-
-- REST APIs  
-- MVC Architecture  
-
----
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
----
-
-### 🔐 Authentication & Security
-- JSON Web Tokens (JWT)  
-- OAuth 2.0 (Google, GitHub)  
-
----
-
-### 🤖 AI / Machine Learning
-- Natural Language Processing (NLP)  
-- Hugging Face  
-- LLM Integration  
-- Transformer Models (BERT, RoBERTa)  
-- Bi-LSTM  
-
----
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+| Languages | Frameworks & Libraries | Databases | Tools & Platforms | AI / ML |
+|-----------|------------------------|-----------|-------------------|---------|
+| ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) | ![NLP](https://img.shields.io/badge/NLP-FF6F61?logo=ai&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black) ![LLM](https://img.shields.io/badge/LLM_Integration-8A2BE2?logo=openai&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-FF9F1C?logo=google&logoColor=white) ![RoBERTa](https://img.shields.io/badge/RoBERTa-6A0DAD?logo=meta&logoColor=white) ![BiLSTM](https://img.shields.io/badge/Bi--LSTM-20B2AA?logo=tensorflow&logoColor=white) |
 
 ---
 

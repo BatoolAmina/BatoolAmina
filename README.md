@@ -8,7 +8,7 @@ Final-year Computer Science student specializing in full-stack web development. 
 
 ---
 
-## 🚀 Technical Skills
+## Technical Skills
 
 | Languages | Frameworks & Libraries | Databases | Tools & Platforms | AI / ML | Authentication & Security |
 |-----------|------------------------|-----------|-------------------|---------|---------------------------|
@@ -16,7 +16,7 @@ Final-year Computer Science student specializing in full-stack web development. 
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 - **[LUMINA 1.0](https://lumina-chatbot-app-by-batool.vercel.app/)**
   - Full-stack AI orchestration platform for intelligent, secure, and real-time interactions.
@@ -73,7 +73,7 @@ Final-year Computer Science student specializing in full-stack web development. 
 
 ---
 
-## 💼 Experience
+## Experience
 
 - **Web Development Intern – CollegeTips.in** *(2025, Remote)*  
   - Enhanced student resource platforms by improving UI/UX and optimizing performance.  
@@ -103,15 +103,15 @@ Final-year Computer Science student specializing in full-stack web development. 
 
 ## Certifications & Achievements
 
-- **🏆 First Place Winner** | Siemens Healthineers SHIFT Innovation Think Tank Program 
-- **🎓 Postman API Fundamentals** | Student Expert 
-- **🤖 Career Essentials in Generative AI** | Microsoft & LinkedIn 
-- **🚀 GirlScript Summer of Code 2024** | Extended Contributor 
-- **💼 Virtual Experience Programs (Forage)**:
+- **First Place Winner** | Siemens Healthineers SHIFT Innovation Think Tank Program 
+- **Postman API Fundamentals** | Student Expert 
+- **Career Essentials in Generative AI** | Microsoft & LinkedIn 
+- **GirlScript Summer of Code 2024** | Extended Contributor 
+- **Virtual Experience Programs (Forage)**:
   - Deloitte Australia Virtual Experience
   - Skyscanner Travel Technology Virtual Experience
   - Accenture Virtual Experience
-- **💻 Technical Certifications**:
+- **Technical Certifications**:
   - Python Programming
   - SQL Fundamentals (CRUD Operations)
   - Modern Web Development (HTML, CSS, and JavaScript)

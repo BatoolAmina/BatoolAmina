@@ -59,18 +59,19 @@ Professional business website focused on responsive UI, modern branding, and opt
 ---
 
 ### [Hidden Hiring Gems](https://batoolamina.github.io/Hidden-Hiring-Gems/)
-Curated platform showcasing niche internship and hiring opportunities with clean and accessible UI design.
+Curated platform showcasing niche internship, remote work, and hiring opportunities through a clean and accessible job discovery interface.
 
 **Tech Stack:** HTML, CSS, JavaScript  
 **Links:** [GitHub](https://github.com/BatoolAmina/Hidden-Hiring-Gems) | [Live](https://batoolamina.github.io/Hidden-Hiring-Gems/)
+
 ---
 
 ## Experience
 
 ### Web Development Intern — CollegeTips.in *(2025 · Remote)*
-- Developed responsive and scalable web interfaces using modern frontend technologies.
-- Integrated frontend components with APIs while improving UI performance and user engagement.
-- Contributed to optimized and user-focused digital experiences for student platforms.
+- Developed responsive and scalable web interfaces using modern frontend technologies and API integration.
+- Improved UI performance, rendering efficiency, and overall user engagement across student-focused platforms.
+- Contributed to optimized and accessible digital experiences with focus on responsiveness and usability.
 
 ---
 

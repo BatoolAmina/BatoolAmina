@@ -18,52 +18,51 @@ Full Stack Developer with experience building scalable AI-powered web applicatio
 
 ## Featured Projects
 
-### 🚀 [LUMINA 1.0](https://lumina-chatbot-app-by-batool.vercel.app/)
+### [LUMINA 1.0](https://lumina-chatbot-app-by-batool.vercel.app/)
 Full-stack AI orchestration platform designed for intelligent, secure, and real-time interactions with integrated LLM-powered assistance and scalable backend architecture.
 
 **Tech Stack:** Next.js, Node.js, Express.js, MongoDB, LLM APIs  
-🔗 [Frontend](https://github.com/BatoolAmina/lumina-frontend) | [Backend](https://github.com/BatoolAmina/lumina-backend)
+**Links:** [Frontend](https://github.com/BatoolAmina/lumina-frontend) | [Backend](https://github.com/BatoolAmina/lumina-backend) | [Live](https://lumina-chatbot-app-by-batool.vercel.app/)
 
 ---
 
-### 🧠 [MHC AI](https://mental-health-chatbot-app.vercel.app/)
+### [MHC AI](https://mental-health-chatbot-app.vercel.app/)
 AI-powered mental health platform leveraging NLP models including BERT, RoBERTa, and Bi-LSTM for contextual and emotion-aware interactions.
 
 **Tech Stack:** Next.js, Flask, Hugging Face, NLP, LLM Integration  
-🔗 [Frontend](https://github.com/BatoolAmina/mental_health_frontend) | [Backend](https://github.com/BatoolAmina/mental-health-backend)
+**Links:** [Frontend](https://github.com/BatoolAmina/mental_health_frontend) | [Backend](https://github.com/BatoolAmina/mental-health-backend) | [Live](https://mental-health-chatbot-app.vercel.app/)
 
 ---
 
-### 🤝 [SilverConnect](https://silver-connection.vercel.app/)
+### [SilverConnect](https://silver-connection.vercel.app/)
 Caregiving and assistance platform connecting elderly users with verified helpers through secure and accessible web experiences.
 
 **Tech Stack:** Next.js, Node.js, Express.js, MongoDB, JWT  
-🔗 [Frontend](https://github.com/BatoolAmina/silver-connect) | [Backend](https://github.com/BatoolAmina/silver-connect-backend)
+**Links:** [Frontend](https://github.com/BatoolAmina/silver-connect) | [Backend](https://github.com/BatoolAmina/silver-connect-backend) | [Live](https://silver-connection.vercel.app/)
 
 ---
 
-### 📄 [Plagiarism Checker](https://plagiarismcheck.streamlit.app/)
+### [Plagiarism Checker](https://plagiarismcheck.streamlit.app/)
 Document similarity analysis platform supporting multi-format uploads with NLP-based text comparison and highlighted matching detection.
 
 **Tech Stack:** Python, NLP, Streamlit  
-🔗 [GitHub](https://github.com/BatoolAmina/PlagiarismCheck)
+**Links:** [GitHub](https://github.com/BatoolAmina/PlagiarismCheck) | [Live](https://plagiarismcheck.streamlit.app/)
 
 ---
 
-### 💼 [Bandhu Enterprises](https://bandhuenterprises.in)
+### [Bandhu Enterprises](https://bandhuenterprises.in)
 Professional business website focused on responsive UI, modern branding, and optimized user experience.
 
 **Tech Stack:** React.js, Tailwind CSS  
-🔗 [GitHub](https://github.com/BatoolAmina/bandhu-enterprises)
+**Links:** [GitHub](https://github.com/BatoolAmina/bandhu-enterprises) | [Live](https://bandhuenterprises.in)
 
 ---
 
-### 💎 [Hidden Hiring Gems](https://batoolamina.github.io/Hidden-Hiring-Gems/)
+### [Hidden Hiring Gems](https://batoolamina.github.io/Hidden-Hiring-Gems/)
 Curated platform showcasing niche internship and hiring opportunities with clean and accessible UI design.
 
 **Tech Stack:** HTML, CSS, JavaScript  
-🔗 [GitHub](https://github.com/BatoolAmina/Hidden-Hiring-Gems)
-
+**Links:** [GitHub](https://github.com/BatoolAmina/Hidden-Hiring-Gems) | [Live](https://batoolamina.github.io/Hidden-Hiring-Gems/)
 ---
 
 ## Experience
@@ -179,4 +178,4 @@ Contributed to open-source projects during **GirlScript Summer of Code 2024 (GSS
   </a>
 </p>
 
-💼 Open to internships, freelance projects, software engineering opportunities, and AI-focused collaborations.
+Open to internships, freelance projects, software engineering opportunities, and AI-focused collaborations.

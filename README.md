@@ -19,7 +19,7 @@ Full Stack Developer with experience building scalable AI-powered web applicatio
 ## Featured Projects
 
 ### [LUMINA 1.0](https://lumina-chatbot-app-by-batool.vercel.app/)
-Full-stack AI orchestration platform designed for intelligent, secure, and real-time interactions with integrated LLM-powered assistance and scalable backend architecture.
+LUMINA is a full-stack AI platform built to support intelligent and real-time interactions through modern LLM integrations and scalable backend architecture. The platform combines multiple AI-powered workflows with secure authentication and responsive user experience.
 
 **Tech Stack:** Next.js, Node.js, Express.js, MongoDB, LLM APIs  
 **Links:** [Frontend](https://github.com/BatoolAmina/lumina-frontend) | [Backend](https://github.com/BatoolAmina/lumina-backend) | [Live](https://lumina-chatbot-app-by-batool.vercel.app/)
@@ -27,7 +27,7 @@ Full-stack AI orchestration platform designed for intelligent, secure, and real-
 ---
 
 ### [MHC AI](https://mental-health-chatbot-app.vercel.app/)
-AI-powered mental health platform leveraging NLP models including BERT, RoBERTa, and Bi-LSTM for contextual and emotion-aware interactions.
+MHC AI is an AI-powered mental health platform focused on emotion-aware and contextual conversations. The project integrates NLP models such as BERT, RoBERTa, and Bi-LSTM to better understand user intent and emotional patterns.
 
 **Tech Stack:** Next.js, Flask, Hugging Face, NLP, LLM Integration  
 **Links:** [Frontend](https://github.com/BatoolAmina/mental_health_frontend) | [Backend](https://github.com/BatoolAmina/mental-health-backend) | [Live](https://mental-health-chatbot-app.vercel.app/)
@@ -35,7 +35,7 @@ AI-powered mental health platform leveraging NLP models including BERT, RoBERTa,
 ---
 
 ### [SilverConnect](https://silver-connection.vercel.app/)
-Caregiving and assistance platform connecting elderly users with verified helpers through secure and accessible web experiences.
+SilverConnect is a caregiving and assistance platform designed to help elderly users connect with verified helpers through a secure and easy-to-use interface. The project focuses on accessibility, usability, and responsive design.
 
 **Tech Stack:** Next.js, Node.js, Express.js, MongoDB, JWT  
 **Links:** [Frontend](https://github.com/BatoolAmina/silver-connect) | [Backend](https://github.com/BatoolAmina/silver-connect-backend) | [Live](https://silver-connection.vercel.app/)
@@ -43,7 +43,7 @@ Caregiving and assistance platform connecting elderly users with verified helper
 ---
 
 ### [Plagiarism Checker](https://plagiarismcheck.streamlit.app/)
-Document similarity analysis platform supporting multi-format uploads with NLP-based text comparison and highlighted matching detection.
+A document similarity analysis platform capable of handling multiple file formats with NLP-based text comparison and highlighted matching detection for easier review and analysis.
 
 **Tech Stack:** Python, NLP, Streamlit  
 **Links:** [GitHub](https://github.com/BatoolAmina/PlagiarismCheck) | [Live](https://plagiarismcheck.streamlit.app/)
@@ -51,7 +51,7 @@ Document similarity analysis platform supporting multi-format uploads with NLP-b
 ---
 
 ### [Bandhu Enterprises](https://bandhuenterprises.in)
-Professional business website focused on responsive UI, modern branding, and optimized user experience.
+A professional business website developed with focus on modern UI design, responsiveness, and optimized user experience for business presentation and branding.
 
 **Tech Stack:** React.js, Tailwind CSS  
 **Links:** [GitHub](https://github.com/BatoolAmina/bandhu-enterprises) | [Live](https://bandhuenterprises.in)
@@ -59,7 +59,7 @@ Professional business website focused on responsive UI, modern branding, and opt
 ---
 
 ### [Hidden Hiring Gems](https://batoolamina.github.io/Hidden-Hiring-Gems/)
-Curated platform showcasing niche internship, remote work, and hiring opportunities through a clean and accessible job discovery interface.
+A curated platform for discovering niche internships, remote opportunities, and hidden hiring openings through a clean and user-friendly interface.
 
 **Tech Stack:** HTML, CSS, JavaScript  
 **Links:** [GitHub](https://github.com/BatoolAmina/Hidden-Hiring-Gems) | [Live](https://batoolamina.github.io/Hidden-Hiring-Gems/)
@@ -68,74 +68,76 @@ Curated platform showcasing niche internship, remote work, and hiring opportunit
 
 ## Experience
 
-### Web Development Intern — CollegeTips.in *(2025 · Remote)*
-- Developed responsive and scalable web interfaces using modern frontend technologies and API integration.
-- Improved UI performance, rendering efficiency, and overall user engagement across student-focused platforms.
-- Contributed to optimized and accessible digital experiences with focus on responsiveness and usability.
+### Web Development Intern | CollegeTips.in *(2025 · Remote)*
+- Worked on responsive and scalable web interfaces using modern frontend technologies.
+- Integrated frontend components with APIs while improving UI performance and user engagement.
+- Contributed to building accessible and optimized digital experiences for student-focused platforms.
 
 ---
 
-### MERN Stack Development Intern — Digipodium *(2025 · Lucknow, India)*
-- Built scalable full-stack application features using the MERN stack for real-world use cases.
-- Designed and integrated RESTful APIs for secure and efficient frontend-backend communication.
-- Optimized MongoDB queries and application workflows to improve overall performance.
+### MERN Stack Development Intern | Digipodium *(2025 · Lucknow, India)*
+- Built full-stack application features using the MERN stack for practical real-world use cases.
+- Developed and integrated RESTful APIs for efficient frontend-backend communication.
+- Improved database performance and application workflows through query optimization.
 
 ---
 
-### Web Development Intern — Shuttr Troops LLP *(2025 · Lucknow, India)*
-- Developed responsive and high-performance web interfaces using React.js.
-- Improved accessibility, responsiveness, and UI consistency across multiple devices.
-- Collaborated with cross-functional teams to deliver scalable frontend solutions.
+### Web Development Intern | Shuttr Troops LLP *(2025 · Lucknow, India)*
+- Developed responsive web interfaces using React.js with focus on usability and performance.
+- Improved accessibility and consistency across different devices and screen sizes.
+- Collaborated with team members to deliver scalable frontend solutions and resolve UI issues.
 
 ---
 
-### Front-End Development Intern — CodeAlpha *(2024 · Remote)*
-- Built responsive and interactive UI components using React.js and Tailwind CSS.
-- Designed modern and user-friendly layouts focused on usability and responsiveness.
+### Front-End Development Intern | CodeAlpha *(2024 · Remote)*
+- Built responsive UI components using React.js and Tailwind CSS.
+- Designed clean and interactive user interfaces with focus on responsiveness and usability.
 
 ---
 
-### Python Developer Intern — Codsoft *(2024 · Remote)*
-- Developed Python-based automation scripts and utility applications.
-- Worked on problem-solving projects focused on logic building and application functionality.
+### Python Developer Intern | Codsoft *(2024 · Remote)*
+- Developed Python-based utility applications and automation scripts.
+- Worked on logic-building and problem-solving projects using core Python concepts.
 
 ---
 
-### Front-End Development Intern — 1 Stop *(2023 · Remote)*
+### Front-End Development Intern | 1 Stop *(2023 · Remote)*
 - Built responsive web layouts using HTML, CSS, and JavaScript fundamentals.
-- Gained hands-on experience in semantic design, frontend structure, and web responsiveness.
+- Gained hands-on experience in semantic frontend development and responsive design.
+
 ---
 
 ## Certifications & Achievements
 
 ### Achievements
-- **First Place Winner** — Siemens Healthineers SHIFT Innovation Think Tank Program  
-- **Extended Contributor** — GirlScript Summer of Code 2024 (GSSoC '24)
+- **First Place Winner** | Siemens Healthineers SHIFT Innovation Think Tank Program  
+- **Extended Contributor** | GirlScript Summer of Code 2024 (GSSoC '24)
 
 ---
 
-### AI & Development Certifications
-- **Career Essentials in Generative AI** — Microsoft & LinkedIn  
-- **Postman API Fundamentals Student Expert** — Postman
+### AI and Development Certifications
+- **Career Essentials in Generative AI** | Microsoft and LinkedIn  
+- **Postman API Fundamentals Student Expert** | Postman
 
 ---
 
-### Virtual Experience Programs (Forage)
+### Virtual Experience Programs
 - Deloitte Australia Virtual Experience Program  
-- Skyscanner Travel Technology Virtual Experience  
+- Skyscanner Travel Technology Virtual Experience Program  
 - Accenture Virtual Experience Program
 
 ---
 
 ### Technical Certifications
 - Python Programming  
-- SQL Fundamentals (CRUD Operations)  
-- Modern Web Development (HTML, CSS, JavaScript)
+- SQL Fundamentals and CRUD Operations  
+- Modern Web Development using HTML, CSS, and JavaScript  
+
 ---
 
-## Open Source Contributions & GSSoC '24
+## Open Source Contributions
 
-Contributed to open-source projects during **GirlScript Summer of Code 2024 (GSSoC '24)** with active participation in development, collaboration, and API-focused challenges.
+Contributed to open-source projects during GirlScript Summer of Code 2024 with active involvement in collaboration, API-focused challenges, and community-driven development.
 
 <details>
 <summary><strong>View GSSoC '24 Badges</strong></summary>
@@ -169,11 +171,11 @@ Contributed to open-source projects during **GirlScript Summer of Code 2024 (GSS
   <a href="https://www.linkedin.com/in/batool-amina/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
-  
+
   <a href="mailto:batool.amina.110@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
-  
+
   <a href="https://github.com/BatoolAmina">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   </a>

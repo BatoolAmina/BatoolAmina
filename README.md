@@ -24,8 +24,6 @@ LUMINA is a full-stack AI platform built to support intelligent and real-time in
 **Tech Stack:** Next.js, Node.js, Express.js, MongoDB, LLM APIs  
 **Links:** [Frontend](https://github.com/BatoolAmina/lumina-frontend) | [Backend](https://github.com/BatoolAmina/lumina-backend) | [Live](https://lumina-chatbot-app-by-batool.vercel.app/)
 
----
-
 ### [MHC AI](https://mental-health-chatbot-app.vercel.app/)
 MHC AI is an AI-powered mental health platform focused on emotion-aware and contextual conversations. The project integrates NLP models such as BERT, RoBERTa, and Bi-LSTM to better understand user intent and emotional patterns.
 

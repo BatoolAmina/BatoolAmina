@@ -4,7 +4,7 @@
 
 ## Professional Summary
 
-Final-year Computer Science student specializing in full-stack web development. Experienced in building scalable, accessible, and user-centric digital solutions. Active open-source contributor and technical intern with a focus on solving real-world challenges through modern technology stacks.
+Full Stack Developer with experience building scalable AI-powered web applications using MERN stack and Next.js. Skilled in REST APIs, authentication systems, database optimization, and integrating LLM-based features using Hugging Face and AI APIs. Strong foundation in JavaScript, Python, and backend engineering with interest in machine learning, intelligent systems, and scalable product development.
 
 ---
 
@@ -18,128 +18,165 @@ Final-year Computer Science student specializing in full-stack web development. 
 
 ## Featured Projects
 
-- **[LUMINA 1.0](https://lumina-chatbot-app-by-batool.vercel.app/)**
-  - Full-stack AI orchestration platform for intelligent, secure, and real-time interactions.
-  - Integrated LLM-powered assistance with modern UI.
-  - **Tech:** Next.js, Node.js, Express, MongoDB  
-  - 🔗 [Frontend](https://github.com/BatoolAmina/lumina-frontend) | [Backend](https://github.com/BatoolAmina/lumina-backend)
+### 🚀 [LUMINA 1.0](https://lumina-chatbot-app-by-batool.vercel.app/)
+Full-stack AI orchestration platform designed for intelligent, secure, and real-time interactions with integrated LLM-powered assistance and scalable backend architecture.
 
-- **[MHC AI](https://mental-health-chatbot-app.vercel.app/)**
-  - Mental health AI platform using BERT, RoBERTa, and Bi-LSTM for semantic and emotional understanding.
-  - Built with NLP + LLM integration for contextual responses.
-  - **Tech:** Next.js, Flask, Hugging Face  
-  - 🔗 [Frontend](https://github.com/BatoolAmina/mental_health_frontend) | [Backend](https://github.com/BatoolAmina/mental-health-backend)
+**Tech Stack:** Next.js, Node.js, Express.js, MongoDB, LLM APIs  
+🔗 [Frontend](https://github.com/BatoolAmina/lumina-frontend) | [Backend](https://github.com/BatoolAmina/lumina-backend)
 
-- **[SilverConnect](https://silver-connection.vercel.app/)**
-  - Platform connecting elderly users with verified helpers.
-  - **Tech:** Next.js, Node.js, Express, MongoDB  
-  - 🔗 [Frontend](https://github.com/BatoolAmina/silver-connect) | [Backend](https://github.com/BatoolAmina/silver-connect-backend)
+---
 
-- **[Plagiarism Checker](https://plagiarismcheck.streamlit.app/)**
-  - Multi-format document analysis with similarity highlighting.
-  - **Tech:** Python, NLP, Streamlit  
-  - 🔗 [GitHub](https://github.com/BatoolAmina/PlagiarismCheck)
+### 🧠 [MHC AI](https://mental-health-chatbot-app.vercel.app/)
+AI-powered mental health platform leveraging NLP models including BERT, RoBERTa, and Bi-LSTM for contextual and emotion-aware interactions.
 
-- **[Bandhu Enterprises](https://bandhuenterprises.in)**
-  - Professional business website with modern UI and responsiveness.
-  - **Tech:** React.js, Tailwind CSS  
-  - 🔗 [GitHub](https://github.com/BatoolAmina/bandhu-enterprises)
+**Tech Stack:** Next.js, Flask, Hugging Face, NLP, LLM Integration  
+🔗 [Frontend](https://github.com/BatoolAmina/mental_health_frontend) | [Backend](https://github.com/BatoolAmina/mental-health-backend)
 
-- **[Hidden Hiring Gems](https://batoolamina.github.io/Hidden-Hiring-Gems/)**
-  - Curated job board for niche opportunities.
-  - **Tech:** HTML, CSS, JavaScript  
-  - 🔗 [GitHub](https://github.com/BatoolAmina/Hidden-Hiring-Gems)
+---
 
-- **[Pet-Friendly City](https://batoolamina.github.io/Pet-Friendly-City/)**
-  - Platform to discover and rate pet-friendly places.
-  - **Tech:** HTML, CSS, JavaScript  
-  - 🔗 [GitHub](https://github.com/BatoolAmina/Pet-Friendly-City)
+### 🤝 [SilverConnect](https://silver-connection.vercel.app/)
+Caregiving and assistance platform connecting elderly users with verified helpers through secure and accessible web experiences.
 
-- **[CollegeTips.in](https://github.com/BatoolAmina/CollegeTips.in)**
-  - Professional web development focused on student resources and UI optimization.
-  - 🔗 [GitHub](https://github.com/BatoolAmina/CollegeTips.in)
+**Tech Stack:** Next.js, Node.js, Express.js, MongoDB, JWT  
+🔗 [Frontend](https://github.com/BatoolAmina/silver-connect) | [Backend](https://github.com/BatoolAmina/silver-connect-backend)
 
-- **[PyPassword Generator](https://github.com/BatoolAmina/CODSOFT/blob/main/PasswordGenerator.py)**
-  - Secure password generator with customizable complexity.
+---
 
-- **[Calculator](https://github.com/BatoolAmina/CODSOFT/blob/main/Calculator.py)**
-  - Command-line calculator supporting arithmetic operations.
+### 📄 [Plagiarism Checker](https://plagiarismcheck.streamlit.app/)
+Document similarity analysis platform supporting multi-format uploads with NLP-based text comparison and highlighted matching detection.
 
-- **[Contact Book](https://github.com/BatoolAmina/CODSOFT/blob/main/ContactBook.py)**
-  - Contact management system with CRUD functionality.
+**Tech Stack:** Python, NLP, Streamlit  
+🔗 [GitHub](https://github.com/BatoolAmina/PlagiarismCheck)
 
-- **[Rock Paper Scissors](https://github.com/BatoolAmina/CODSOFT/blob/main/RockPaperScissor.py)**
-  - Game logic with user interaction and randomized outcomes.
+---
+
+### 💼 [Bandhu Enterprises](https://bandhuenterprises.in)
+Professional business website focused on responsive UI, modern branding, and optimized user experience.
+
+**Tech Stack:** React.js, Tailwind CSS  
+🔗 [GitHub](https://github.com/BatoolAmina/bandhu-enterprises)
+
+---
+
+### 💎 [Hidden Hiring Gems](https://batoolamina.github.io/Hidden-Hiring-Gems/)
+Curated platform showcasing niche internship and hiring opportunities with clean and accessible UI design.
+
+**Tech Stack:** HTML, CSS, JavaScript  
+🔗 [GitHub](https://github.com/BatoolAmina/Hidden-Hiring-Gems)
 
 ---
 
 ## Experience
 
-- **Web Development Intern – CollegeTips.in** *(2025, Remote)*  
-  - Enhanced student resource platforms by improving UI/UX and optimizing performance.  
-  - Worked with modern frontend technologies to increase user engagement.  
+### Web Development Intern — CollegeTips.in *(2025 · Remote)*
+- Developed responsive and scalable web interfaces using modern frontend technologies.
+- Integrated frontend components with APIs while improving UI performance and user engagement.
+- Contributed to optimized and user-focused digital experiences for student platforms.
 
-- **Web Development Intern – Digipodium** *(2025, Lucknow, India)*  
-  - Developed modern web application workflows and improved front-end logic.  
-  - Focused on building scalable and efficient digital solutions.  
+---
 
-- **Web Development Intern – Shuttr Troops LLP** *(2025, Lucknow, India)*  
-  - Collaborated on industry-level web projects to build responsive and high-performance interfaces.  
-  - Improved accessibility and user experience across platforms.  
+### MERN Stack Development Intern — Digipodium *(2025 · Lucknow, India)*
+- Built scalable full-stack application features using the MERN stack for real-world use cases.
+- Designed and integrated RESTful APIs for secure and efficient frontend-backend communication.
+- Optimized MongoDB queries and application workflows to improve overall performance.
 
-- **Front-End Development Intern – CodeAlpha** *(2024, Remote)*  
-  - Built responsive UI components using React and Tailwind CSS.  
-  - Designed interactive and user-friendly web layouts.  
+---
 
-- **Python Developer Intern – Codsoft** *(2024, Remote)*  
-  - Developed automation scripts and security-focused Python applications.  
-  - Worked on real-world problem-solving using Python.  
+### Web Development Intern — Shuttr Troops LLP *(2025 · Lucknow, India)*
+- Developed responsive and high-performance web interfaces using React.js.
+- Improved accessibility, responsiveness, and UI consistency across multiple devices.
+- Collaborated with cross-functional teams to deliver scalable frontend solutions.
 
-- **Front-End Development Intern – 1 Stop** *(2023, Remote)*  
-  - Gained foundational experience in responsive design and semantic HTML/CSS.  
-  - Built beginner-friendly web applications and layouts.
- 
+---
+
+### Front-End Development Intern — CodeAlpha *(2024 · Remote)*
+- Built responsive and interactive UI components using React.js and Tailwind CSS.
+- Designed modern and user-friendly layouts focused on usability and responsiveness.
+
+---
+
+### Python Developer Intern — Codsoft *(2024 · Remote)*
+- Developed Python-based automation scripts and utility applications.
+- Worked on problem-solving projects focused on logic building and application functionality.
+
+---
+
+### Front-End Development Intern — 1 Stop *(2023 · Remote)*
+- Built responsive web layouts using HTML, CSS, and JavaScript fundamentals.
+- Gained hands-on experience in semantic design, frontend structure, and web responsiveness.
 ---
 
 ## Certifications & Achievements
 
-- **First Place Winner** | Siemens Healthineers SHIFT Innovation Think Tank Program 
-- **Postman API Fundamentals** | Student Expert 
-- **Career Essentials in Generative AI** | Microsoft & LinkedIn 
-- **GirlScript Summer of Code 2024** | Extended Contributor 
-- **Virtual Experience Programs (Forage)**:
-  - Deloitte Australia Virtual Experience
-  - Skyscanner Travel Technology Virtual Experience
-  - Accenture Virtual Experience
-- **Technical Certifications**:
-  - Python Programming
-  - SQL Fundamentals (CRUD Operations)
-  - Modern Web Development (HTML, CSS, and JavaScript)
+### Achievements
+- **First Place Winner** — Siemens Healthineers SHIFT Innovation Think Tank Program  
+- **Extended Contributor** — GirlScript Summer of Code 2024 (GSSoC '24)
 
 ---
 
-## GSSoC '24 Badges
+### AI & Development Certifications
+- **Career Essentials in Generative AI** — Microsoft & LinkedIn  
+- **Postman API Fundamentals Student Expert** — Postman
 
-<div align='center' style='display:flex; flex-wrap:wrap; gap:10px;'>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
+---
+
+### Virtual Experience Programs (Forage)
+- Deloitte Australia Virtual Experience Program  
+- Skyscanner Travel Technology Virtual Experience  
+- Accenture Virtual Experience Program
+
+---
+
+### Technical Certifications
+- Python Programming  
+- SQL Fundamentals (CRUD Operations)  
+- Modern Web Development (HTML, CSS, JavaScript)
+---
+
+## Open Source Contributions & GSSoC '24
+
+Contributed to open-source projects during **GirlScript Summer of Code 2024 (GSSoC '24)** with active participation in development, collaboration, and API-focused challenges.
+
+<details>
+<summary><strong>View GSSoC '24 Badges</strong></summary>
+
+<br>
+
+<div align='center'>
+
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="95px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="90px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="90px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="95px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="90px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="90px" />
+
 </div>
 
+</details>
+
 ---
 
-## Contact Information
+## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batool-amina/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:batool.amina.110@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/batool-amina/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:batool.amina.110@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/BatoolAmina">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  </a>
+</p>
 
-Actively seeking internships, freelance opportunities, and collaborations in software engineering.
+💼 Open to internships, freelance projects, software engineering opportunities, and AI-focused collaborations.

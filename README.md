@@ -32,15 +32,11 @@ MHC AI is an AI-powered mental health platform focused on emotion-aware and cont
 **Tech Stack:** Next.js, Flask, Hugging Face, NLP, LLM Integration  
 **Links:** [Frontend](https://github.com/BatoolAmina/mental_health_frontend) | [Backend](https://github.com/BatoolAmina/mental-health-backend) | [Live](https://mental-health-chatbot-app.vercel.app/)
 
----
-
 ### [SilverConnect](https://silver-connection.vercel.app/)
 SilverConnect is a caregiving and assistance platform designed to help elderly users connect with verified helpers through a secure and easy-to-use interface. The project focuses on accessibility, usability, and responsive design.
 
 **Tech Stack:** Next.js, Node.js, Express.js, MongoDB, JWT  
 **Links:** [Frontend](https://github.com/BatoolAmina/silver-connect) | [Backend](https://github.com/BatoolAmina/silver-connect-backend) | [Live](https://silver-connection.vercel.app/)
-
----
 
 ### [Plagiarism Checker](https://plagiarismcheck.streamlit.app/)
 A document similarity analysis platform capable of handling multiple file formats with NLP-based text comparison and highlighted matching detection for easier review and analysis.
@@ -48,15 +44,11 @@ A document similarity analysis platform capable of handling multiple file format
 **Tech Stack:** Python, NLP, Streamlit  
 **Links:** [GitHub](https://github.com/BatoolAmina/PlagiarismCheck) | [Live](https://plagiarismcheck.streamlit.app/)
 
----
-
 ### [Bandhu Enterprises](https://bandhuenterprises.in)
 A professional business website developed with focus on modern UI design, responsiveness, and optimized user experience for business presentation and branding.
 
 **Tech Stack:** React.js, Tailwind CSS  
 **Links:** [GitHub](https://github.com/BatoolAmina/bandhu-enterprises) | [Live](https://bandhuenterprises.in)
-
----
 
 ### [Hidden Hiring Gems](https://batoolamina.github.io/Hidden-Hiring-Gems/)
 A curated platform for discovering niche internships, remote opportunities, and hidden hiring openings through a clean and user-friendly interface.
@@ -73,33 +65,23 @@ A curated platform for discovering niche internships, remote opportunities, and 
 - Integrated frontend components with APIs while improving UI performance and user engagement.
 - Contributed to building accessible and optimized digital experiences for student-focused platforms.
 
----
-
 ### MERN Stack Development Intern | Digipodium *(2025 · Lucknow, India)*
 - Built full-stack application features using the MERN stack for practical real-world use cases.
 - Developed and integrated RESTful APIs for efficient frontend-backend communication.
 - Improved database performance and application workflows through query optimization.
-
----
 
 ### Web Development Intern | Shuttr Troops LLP *(2025 · Lucknow, India)*
 - Developed responsive web interfaces using React.js with focus on usability and performance.
 - Improved accessibility and consistency across different devices and screen sizes.
 - Collaborated with team members to deliver scalable frontend solutions and resolve UI issues.
 
----
-
 ### Front-End Development Intern | CodeAlpha *(2024 · Remote)*
 - Built responsive UI components using React.js and Tailwind CSS.
 - Designed clean and interactive user interfaces with focus on responsiveness and usability.
 
----
-
 ### Python Developer Intern | Codsoft *(2024 · Remote)*
 - Developed Python-based utility applications and automation scripts.
 - Worked on logic-building and problem-solving projects using core Python concepts.
-
----
 
 ### Front-End Development Intern | 1 Stop *(2023 · Remote)*
 - Built responsive web layouts using HTML, CSS, and JavaScript fundamentals.
@@ -113,20 +95,14 @@ A curated platform for discovering niche internships, remote opportunities, and 
 - **First Place Winner** | Siemens Healthineers SHIFT Innovation Think Tank Program  
 - **Extended Contributor** | GirlScript Summer of Code 2024 (GSSoC '24)
 
----
-
 ### AI and Development Certifications
 - **Career Essentials in Generative AI** | Microsoft and LinkedIn  
 - **Postman API Fundamentals Student Expert** | Postman
-
----
 
 ### Virtual Experience Programs
 - Deloitte Australia Virtual Experience Program  
 - Skyscanner Travel Technology Virtual Experience Program  
 - Accenture Virtual Experience Program
-
----
 
 ### Technical Certifications
 - Python Programming  

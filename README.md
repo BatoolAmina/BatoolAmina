@@ -145,27 +145,12 @@ Curated platform for discovering hidden internships, remote opportunities, and n
 
 ---
 
-# Experience
-
-### Web Development Intern - CollegeTips.in
-Worked on scalable responsive frontend systems and optimized UI performance.
-
-### MERN Stack Development Intern - Digipodium
-Built full stack application features and integrated REST APIs.
-
-### Web Development Intern - Shuttr Troops LLP
-Developed modern React.js interfaces with focus on scalability and performance.
-
----
-
 # Open Source Contributions
-
 Extended Contributor at GirlScript Summer of Code 2024 with active involvement in community-driven and API-focused projects.
 
 ---
 
 # Certifications
-
 - Career Essentials in Generative AI — Microsoft & LinkedIn
 - Postman API Fundamentals Student Expert
 - Deloitte Australia Virtual Experience Program

@@ -3,25 +3,19 @@
 # Batool Amina
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Powered+Web+Application+Developer;MERN+Stack+%7C+Next.js+Developer;Open+Source+Contributor;Building+Scalable+Modern+Applications" />
-
 <br/>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/batool-amina/">
     <img src="https://img.shields.io/badge/LinkedIn-7F3FBF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://github.com/BatoolAmina">
     <img src="https://img.shields.io/badge/GitHub-5E2B97?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <a href="mailto:batool.amina.110@gmail.com">
     <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
 <img src="https://komarev.com/ghpvc/?username=BatoolAmina&label=Profile%20Views&color=8A2BE2&style=flat" />
-
 </div>
 
 ---
@@ -31,31 +25,26 @@
 ```javascript
 const batool = {
     role: "Full Stack Developer",
-
     expertise: [
         "AI Powered Web Applications",
         "Scalable Backend Systems",
         "Modern Frontend Architecture",
         "REST API Development"
     ],
-
     technologies: {
         frontend: [
             "React.js",
             "Next.js",
             "Tailwind CSS"
         ],
-
         backend: [
             "Node.js",
             "Express.js"
         ],
-
         databases: [
             "MongoDB",
             "MySQL"
         ],
-
         ai_ml: [
             "LLMs",
             "NLP",
@@ -64,13 +53,11 @@ const batool = {
             "RoBERTa"
         ]
     },
-
     currentlyLearning: [
         "System Design",
         "AI Agents",
         "Cloud Infrastructure"
     ],
-
     openTo: [
         "Freelance Projects",
         "Software Engineering Roles",
@@ -79,11 +66,9 @@ const batool = {
 };
 ```
 
-Full Stack Developer with experience building scalable AI-powered web applications using MERN stack and Next.js.
-
-Passionate about developing high-performance digital products with modern frontend systems, optimized backend architecture, and intelligent AI integrations.
-
-Focused on building clean user experiences, scalable APIs, and impactful software solutions.
+- Full Stack Developer with experience building scalable AI-powered web applications using MERN stack and Next.js.
+- Passionate about developing high-performance digital products with modern frontend systems, optimized backend architecture, and intelligent AI integrations.
+- Focused on building clean user experiences, scalable APIs, and impactful software solutions.
 
 ---
 
@@ -97,69 +82,78 @@ Focused on building clean user experiences, scalable APIs, and impactful softwar
 
 # Featured Projects
 
-## 🚀 LUMINA 1.0
-
+## LUMINA 1.0
 AI-powered full stack platform supporting intelligent real-time interactions using modern LLM integrations and scalable backend systems.
-
 ### Tech Stack
 `Next.js` `Node.js` `MongoDB` `Express.js` `LLM APIs`
-
 ### Links
-- Frontend: https://github.com/BatoolAmina/lumina-frontend
-- Backend: https://github.com/BatoolAmina/lumina-backend
-- Live: https://lumina-chatbot-app-by-batool.vercel.app/
+- Frontend: [https://github.com/BatoolAmina/lumina-frontend](https://github.com/BatoolAmina/lumina-frontend)
+- Backend: [https://github.com/BatoolAmina/lumina-backend](https://github.com/BatoolAmina/lumina-backend)
+- Live: [https://lumina-chatbot-app-by-batool.vercel.app/](https://lumina-chatbot-app-by-batool.vercel.app/)
 
----
-
-## 🧠 MHC AI
-
+## MHC AI
 Emotion-aware AI mental health platform integrating NLP and transformer-based models for contextual conversations.
-
 ### Tech Stack
 `Next.js` `Flask` `NLP` `Hugging Face`
+### Links
+- Frontend: [https://github.com/BatoolAmina/lumina-frontend](https://github.com/BatoolAmina/mental_health_frontend)
+- Backend: [https://github.com/BatoolAmina/lumina-backend](https://github.com/BatoolAmina/mental-health-backend)
+- Live: [https://lumina-chatbot-app-by-batool.vercel.app/](https://mental-health-chatbot-app.vercel.app/)  
 
-### Live
-https://mental-health-chatbot-app.vercel.app/
-
----
-
-## 🌐 SilverConnect
-
+## SilverConnect  
 Caregiving and elderly assistance platform focused on accessibility, usability, and secure helper connections.
-
 ### Tech Stack
 `Next.js` `MongoDB` `JWT`
+### Links
+- Frontend: [https://github.com/BatoolAmina/silver-connect](https://github.com/BatoolAmina/silver-connect)
+- Backend: [https://github.com/BatoolAmina/silver-connect-backend](https://github.com/BatoolAmina/silver-connect-backend)
+- Live: [https://silver-connection.vercel.app/](https://silver-connection.vercel.app/)
 
-### Live
-https://silver-connection.vercel.app/
+## Bandhu Enterprises
+Professional business website developed with focus on responsive UI, branding, and optimized user experience.
+### Tech Stack
+`React.js` `Tailwind CSS`
+### Links
+- GitHub: [https://github.com/BatoolAmina/bandhu-enterprises](https://github.com/BatoolAmina/bandhu-enterprises)
+- Live: [https://bandhuenterprises.in](https://bandhuenterprises.in)
+
+## Plagiarism Checker
+Document similarity analysis platform capable of handling multiple file formats with NLP-based text comparison and highlighted matching detection.
+### Tech Stack
+`Python` `NLP` `Streamlit`
+### Links
+- GitHub: [https://github.com/BatoolAmina/PlagiarismCheck](https://github.com/BatoolAmina/PlagiarismCheck)
+- Live: [https://plagiarismcheck.streamlit.app/](https://plagiarismcheck.streamlit.app/)
+
+## Hidden Hiring Gems
+Curated platform for discovering hidden internships, remote opportunities, and niche hiring openings through a clean and user-friendly interface.
+### Tech Stack
+`HTML` `CSS` `JavaScript`
+### Links
+- GitHub: [https://github.com/BatoolAmina/Hidden-Hiring-Gems](https://github.com/BatoolAmina/Hidden-Hiring-Gems)
+- Live: [https://batoolamina.github.io/Hidden-Hiring-Gems/](https://batoolamina.github.io/Hidden-Hiring-Gems/)
 
 ---
 
 # GitHub Analytics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BatoolAmina&show_icons=true&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF&bg_color=0D1117&hide_border=true"/>
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BatoolAmina&theme=midnight-purple&hide_border=true"/>
-
 <br/>
-
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=BatoolAmina&bg_color=0D1117&color=BB86FC&line=BB86FC&point=FFFFFF&hide_border=true"/>
-
 </div>
 
 ---
 
 # Experience
 
-### Web Development Intern — CollegeTips.in
+### Web Development Intern - CollegeTips.in
 Worked on scalable responsive frontend systems and optimized UI performance.
 
-### MERN Stack Development Intern — Digipodium
+### MERN Stack Development Intern - Digipodium
 Built full stack application features and integrated REST APIs.
 
-### Web Development Intern — Shuttr Troops LLP
+### Web Development Intern - Shuttr Troops LLP
 Developed modern React.js interfaces with focus on scalability and performance.
 
 ---
@@ -180,7 +174,5 @@ Extended Contributor at GirlScript Summer of Code 2024 with active involvement i
 ---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=BB86FC&center=true&vCenter=true&width=800&lines=Building+Modern+AI+Powered+Applications;Open+to+Freelance+Projects;Open+to+Software+Engineering+Roles" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=BB86FC&center=true&vCenter=true&width=800&lines=Building+Modern+AI+Powered+Applications;Open+to+Freelance+Projects;Open+to+Software+Engineering+Roles" />
 </div>

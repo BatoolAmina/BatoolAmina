@@ -2,6 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Full+Stack+Developer;Building+Scalable+AI+Powered+Applications;MERN+Stack+%7C+Next.js+Developer;Open+Source+Contributor;Available+for+Freelance+%26+Software+Engineering+Roles" />
 
 <br/>
+<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BatoolAmina&label=Profile%20Views&color=0e75b6&style=flat" />

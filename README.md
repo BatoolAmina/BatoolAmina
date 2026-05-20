@@ -103,7 +103,7 @@ Emotion-aware AI mental health platform integrating NLP and transformer-based mo
 ## SilverConnect  
 Caregiving and elderly assistance platform focused on accessibility, usability, and secure helper connections.
 ### Tech Stack
-`Next.js` `MongoDB` `JWT`
+`Next.js` `MongoDB` `JWT` `Node.js` `Express.js`
 ### Links
 - Frontend: [https://github.com/BatoolAmina/silver-connect](https://github.com/BatoolAmina/silver-connect)
 - Backend: [https://github.com/BatoolAmina/silver-connect-backend](https://github.com/BatoolAmina/silver-connect-backend)

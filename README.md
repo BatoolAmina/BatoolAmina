@@ -48,9 +48,7 @@ const batool = {
         ai_ml: [
             "LLMs",
             "NLP",
-            "Hugging Face",
-            "BERT",
-            "RoBERTa"
+            "Hugging Face"
         ]
     },
     currentlyLearning: [

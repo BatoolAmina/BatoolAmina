@@ -144,7 +144,19 @@ Curated platform for discovering hidden internships, remote opportunities, and n
 ---
 
 # Open Source Contributions
-Extended Contributor at GirlScript Summer of Code 2024 with active involvement in community-driven and API-focused projects.
+
+- Contributor, GirlScript Summer of Code (GSSoC) 2026
+  - Ranked among the Top 3% of 43,000+ global participants.
+  - Actively contributing to open-source projects through bug fixes, UI/UX improvements, responsiveness enhancements, documentation updates, and feature development.
+  - Collaborating with maintainers and the developer community through issue reporting, pull requests, and code reviews.
+
+- Extended Contributor, GirlScript Summer of Code (GSSoC) 2024
+  - Contributed to community-driven and API-focused open-source projects.
+  - Worked on improving application functionality, user experience, and project documentation.
+
+- Active Open Source Contributor
+  - Regularly contribute to MERN Stack, Next.js, AI-powered applications, and frontend-focused projects.
+  - Experienced in identifying bugs, creating detailed issue reports, implementing fixes, and submitting production-ready pull requests.
 
 ---
 

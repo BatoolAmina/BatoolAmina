@@ -155,7 +155,7 @@ Curated platform for discovering hidden internships, remote opportunities, and n
   - Worked on improving application functionality, user experience, and project documentation.
 
 - Active Open Source Contributor
-  - Regularly contribute to MERN Stack, Next.js, AI-powered applications, and frontend-focused projects.
+  - Regularly contribute to MERN Stack, Next.js, AI-powered applications, and frontend-focused projects
   - Experienced in identifying bugs, creating detailed issue reports, implementing fixes, and submitting production-ready pull requests.
 
 ---

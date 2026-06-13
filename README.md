@@ -145,37 +145,37 @@ Curated platform for discovering hidden internships, remote opportunities, and n
 
 # Open Source Contributions
 
-### 🚀 Contributor, GirlScript Summer of Code (GSSoC) 2026
+### Contributor, GirlScript Summer of Code (GSSoC) 2026
 - Ranked among the **Top 3% of 43,000+ global participants**.
-- Earned the **🥇 Elite Badge (5000+ Points)**.
-- Achieved **🚀 Power Contributor (2500+ Points)** and **⭐ Rising Star (1000+ Points)** milestones.
-- Earned **🎖️ Bounty Master** and **🔍 Bounty Hunter** badges through successful completion of community bounty tasks.
-- Achieved **📈 Building Momentum** and **🎉 Getting Started** milestones through consistent merged pull requests.
-- Maintained contribution consistency, earning **🔄 Consistent** and **📅 Week One** badges.
+- Earned the **Elite Badge (5000+ Points)**.
+- Achieved **Power Contributor (2500+ Points)** and **Rising Star (1000+ Points)** milestones.
+- Earned **Bounty Master** and **Bounty Hunter** badges through successful completion of community bounty tasks.
+- Achieved **Building Momentum** and **Getting Started** milestones through consistent merged pull requests.
+- Maintained contribution consistency, earning **Consistent** and **Week One** badges.
 - Actively contributing through bug fixes, UI/UX enhancements, responsiveness improvements, accessibility fixes, documentation updates, and feature development.
 - Collaborating with maintainers and developers through issue reporting, pull requests, code reviews, and community discussions.
 
-#### 🏆 GSSoC 2026 Achievements
-- 🥇 Elite
-- 🚀 Power Contributor
-- ⭐ Rising Star
-- 💯 Point Scorer
-- 🎖️ Bounty Master
-- 🔍 Bounty Hunter
-- 📈 Building Momentum
-- 🎉 Getting Started
-- 🔄 Consistent
-- 📅 Week One
-- 👣 First Steps
-- ✅ Discord Verified
-- 📝 Profile Complete
+#### GSSoC 2026 Achievements
+- Elite
+- Power Contributor
+- Rising Star
+- Point Scorer
+- Bounty Master
+- Bounty Hunter
+- Building Momentum
+- Getting Started
+- Consistent
+- Week One
+- First Steps
+- Discord Verified
+- Profile Complete
 
-### 🌟 Extended Contributor, GirlScript Summer of Code (GSSoC) 2024
+### Extended Contributor, GirlScript Summer of Code (GSSoC) 2024
 - Contributed to community-driven and API-focused open-source projects.
 - Improved application functionality, user experience, and project documentation.
 - Collaborated with project maintainers to resolve issues and enhance project quality.
 
-### 💻 Active Open Source Contributor
+### Active Open Source Contributor
 - Regular contributor to MERN Stack, Next.js, React.js, AI-powered applications, and frontend-focused projects.
 - Experienced in identifying bugs, creating detailed issue reports, implementing scalable solutions, and submitting production-ready pull requests.
 - Skilled in responsive design, accessibility improvements, performance optimization, and modern web development practices.

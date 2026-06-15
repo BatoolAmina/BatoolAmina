@@ -201,15 +201,6 @@ Curated platform for discovering hidden internships, remote opportunities, and n
   - UI/UX Optimization
   - Open Source Collaboration
 - Passionate about building scalable applications and contributing to impactful open-source projects.
-
----
-
-# Certifications
-- Career Essentials in Generative AI — Microsoft & LinkedIn
-- Postman API Fundamentals Student Expert
-- Deloitte Australia Virtual Experience Program
-- Accenture Virtual Experience Program
-
 ---
 
 <div align="center">

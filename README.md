@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hellooooo! I am Batool Amina
+# Hellooooooooooooooo! I am Batool Amina
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Powered+Web+Application+Developer;MERN+Stack+%7C+Next.js+Developer;Open+Source+Contributor;Building+Scalable+Modern+Applications" />
 <br/>
 <p align="center">

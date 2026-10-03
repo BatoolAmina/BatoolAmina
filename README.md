@@ -3,27 +3,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B4E,40:5E2B97,70:8A2BE2,100:BB86FC&height=280&section=header&text=Batool%20Amina&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI-Powered%20Web%20Apps&descSize=20&descAlignY=58" width="100%" alt="Batool Amina"/>
 
-<a href="https://github.com/BatoolAmina">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&height=60&lines=Full+Stack+Developer;MERN+Stack+and+Next.js+Developer;AI+Powered+Web+Application+Developer;Open+Source+Contributor+at+GSSoC+2026;First+Place+at+Siemens+Healthineers+SHIFT;Building+Scalable+Modern+Applications" alt="Typing animation"/>
-</a>
+<p><b>Full Stack Developer</b> &nbsp;|&nbsp; MERN Stack and Next.js &nbsp;|&nbsp; AI-Powered Web Applications<br/>Open Source Contributor at GSSoC 2026 &nbsp;|&nbsp; First Place, Siemens Healthineers SHIFT</p>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/batool-amina/"><img src="https://img.shields.io/badge/LinkedIn-7F3FBF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/BatoolAmina"><img src="https://img.shields.io/badge/GitHub-5E2B97?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:batool.amina.110@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/batool-amina/"><img src="https://img.shields.io/badge/LinkedIn-7F3FBF?style=for-the-badge"/></a>
+<a href="https://github.com/BatoolAmina"><img src="https://img.shields.io/badge/GitHub-5E2B97?style=for-the-badge"/></a>
+<a href="mailto:batool.amina.110@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=BatoolAmina&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/BatoolAmina?label=GITHUB%20FOLLOWERS&style=for-the-badge&color=5E2B97&logo=github&logoColor=white" alt="Followers"/>
+<img src="https://hits.sh/github.com/BatoolAmina.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=8A2BE2" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/BatoolAmina?label=GITHUB%20FOLLOWERS&style=for-the-badge&color=5E2B97" alt="Followers"/>
 
 </div>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+---
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
-<h2 align="center"><img src="assets/h-about-me.svg" width="100%" alt="About Me"/></h2>
+## About Me
 
 ```javascript
 const batool = {
@@ -50,44 +48,42 @@ const batool = {
 - I enjoy bringing AI into the products I build, using **PyTorch** and **Hugging Face Transformers** to connect multiple models.
 - I contribute to open source regularly, and finished in the **Top 2% of GSSoC 2026**.
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+---
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
-<h2 align="center"><img src="assets/h-tech-stack.svg" width="100%" alt="Tech Stack"/></h2>
-
-<p align="center"><img src="assets/skills-marquee.svg" width="100%" alt="Skills"/></p>
+## Tech Stack
 
 <div align="center">
 
 | | |
 |:--|:--|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=flat-square&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-6A0DAD?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-7F3FBF?style=flat-square&logo=openjdk&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React.js-8A2BE2?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-5E2B97?style=flat-square&logo=nextdotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-7B2CBF?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-6A0DAD?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-9D4EDD?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-7B2CBF?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-6A0DAD?style=flat-square&logo=express&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-8A2BE2?style=flat-square&logo=postman&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-5E2B97?style=flat-square&logo=jsonwebtokens&logoColor=white) ![OAuth](https://img.shields.io/badge/OAuth_2.0-7B2CBF?style=flat-square&logo=google&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-7B2CBF?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-9D4EDD?style=flat-square&logo=firebase&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-5A189A?style=flat-square&logo=redis&logoColor=white) |
-| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-8A2BE2?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging_Face-9D4EDD?style=flat-square&logo=huggingface&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-6A0DAD?style=flat-square&logo=tensorflow&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-7F3FBF?style=flat-square&logo=ai&logoColor=white) |
-| **Tools & Deployment** | ![Git](https://img.shields.io/badge/Git-7F3FBF?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-5E2B97?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-8A2BE2?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-6A0DAD?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-7B2CBF?style=flat-square&logo=render&logoColor=white) |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=flat-square) ![Python](https://img.shields.io/badge/Python-6A0DAD?style=flat-square) ![Java](https://img.shields.io/badge/Java-7F3FBF?style=flat-square) |
+| **Frontend** | ![React](https://img.shields.io/badge/React.js-8A2BE2?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-5E2B97?style=flat-square) ![HTML5](https://img.shields.io/badge/HTML5-7B2CBF?style=flat-square) ![CSS3](https://img.shields.io/badge/CSS3-6A0DAD?style=flat-square) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-9D4EDD?style=flat-square) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-7B2CBF?style=flat-square) ![Express](https://img.shields.io/badge/Express.js-6A0DAD?style=flat-square) ![REST](https://img.shields.io/badge/REST_APIs-8A2BE2?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-5E2B97?style=flat-square) ![OAuth](https://img.shields.io/badge/OAuth_2.0-7B2CBF?style=flat-square) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-7B2CBF?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-9D4EDD?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-5A189A?style=flat-square) |
+| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-8A2BE2?style=flat-square) ![HuggingFace](https://img.shields.io/badge/Hugging_Face-9D4EDD?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-6A0DAD?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-7F3FBF?style=flat-square) |
+| **Tools & Deployment** | ![Git](https://img.shields.io/badge/Git-7F3FBF?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-5E2B97?style=flat-square) ![Postman](https://img.shields.io/badge/Postman-8A2BE2?style=flat-square) ![Vercel](https://img.shields.io/badge/Vercel-6A0DAD?style=flat-square) ![Render](https://img.shields.io/badge/Render-7B2CBF?style=flat-square) |
 
 </div>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+---
 
 <!-- ═══════════════ SERVICES ═══════════════ -->
-<h2 align="center"><img src="assets/h-services.svg" width="100%" alt="Services"/></h2>
+## Services
 
 ![SaaS Development](https://img.shields.io/badge/SaaS_Development-7F3FBF?style=for-the-badge) ![Web Design](https://img.shields.io/badge/Web_Design-5E2B97?style=for-the-badge) ![Web Development](https://img.shields.io/badge/Web_Development-8A2BE2?style=for-the-badge) ![Application Development](https://img.shields.io/badge/Application_Development-6A0DAD?style=for-the-badge) ![UX Design](https://img.shields.io/badge/User_Experience_Design-9D4EDD?style=for-the-badge) ![Custom Software](https://img.shields.io/badge/Custom_Software_Development-7B2CBF?style=for-the-badge)
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+---
 
 <!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
-<h2 align="center"><img src="assets/h-featured-projects.svg" width="100%" alt="Featured Projects"/></h2>
+## Featured Projects
 
 ### LUMINA 1.0
 I designed Lumina as an AI-powered SaaS platform that brings four open-source models together, **DeepSeek-V3, Qwen2.5-Coder, Qwen2.5-VL and FLUX.1**, through Hugging Face inference endpoints for conversation and content generation. It uses JWT and OAuth 2.0 authentication with role-based access control.
 
 `Next.js` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
 
-[![Frontend](https://img.shields.io/badge/Frontend-5E2B97?style=for-the-badge&logo=github)](https://github.com/BatoolAmina/lumina-frontend) [![Backend](https://img.shields.io/badge/Backend-7F3FBF?style=for-the-badge&logo=github)](https://github.com/BatoolAmina/lumina-backend) [![Live](https://img.shields.io/badge/Live_Demo-BB86FC?style=for-the-badge&logo=vercel&logoColor=black)](https://lumina-chatbot-app-by-batool.vercel.app/)
+[![Frontend](https://img.shields.io/badge/Frontend-5E2B97?style=for-the-badge)](https://github.com/BatoolAmina/lumina-frontend) [![Backend](https://img.shields.io/badge/Backend-7F3FBF?style=for-the-badge)](https://github.com/BatoolAmina/lumina-backend) [![Live](https://img.shields.io/badge/Live_Demo-BB86FC?style=for-the-badge)](https://lumina-chatbot-app-by-batool.vercel.app/)
 
 ---
 
@@ -96,7 +92,7 @@ I built Redline for **Hack-A-Throne 2026** (AI & Intelligent Systems Track). It 
 
 `Next.js` `React.js` `RAG` `AI`
 
-[![Live](https://img.shields.io/badge/Live_Demo-BB86FC?style=for-the-badge&logo=netlify&logoColor=black)](https://red-line-ai.netlify.app/)
+[![Live](https://img.shields.io/badge/Live_Demo-BB86FC?style=for-the-badge)](https://red-line-ai.netlify.app/)
 
 ---
 
@@ -105,7 +101,7 @@ An emotion-aware mental health platform where I combined NLP and transformer-bas
 
 `Next.js` `Flask` `NLP` `Hugging Face`
 
-[![Frontend](https://img.shields.io/badge/Frontend-5E2B97?style=for-the-badge&logo=github)](https://github.com/BatoolAmina/mental_health_frontend) [![Backend](https://img.shields.io/badge/Backend-7F3FBF?style=for-the-badge&logo=github)](https://github.com/BatoolAmina/mental-health-backend) [![Live](https://img.shields.io/badge/Live_Demo-BB86FC?style=for-the-badge&logo=vercel&logoColor=black)](https://mental-health-chatbot-app.vercel.app/)
+[![Frontend](https://img.shields.io/badge/Frontend-5E2B97?style=for-the-badge)](https://github.com/BatoolAmina/mental_health_frontend) [![Backend](https://img.shields.io/badge/Backend-7F3FBF?style=for-the-badge)](https://github.com/BatoolAmina/mental-health-backend) [![Live](https://img.shields.io/badge/Live_Demo-BB86FC?style=for-the-badge)](https://mental-health-chatbot-app.vercel.app/)
 
 ---
 
@@ -114,7 +110,7 @@ A caregiving platform I built for three kinds of users: elderly people, their ca
 
 `Next.js` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs`
 
-[![Frontend](https://img.shields.io/badge/Frontend-5E2B97?style=for-the-badge&logo=github)](https://github.com/BatoolAmina/silver-connect) [![Backend](https://img.shields.io/badge/Backend-7F3FBF?style=for-the-badge&logo=github)](https://github.com/BatoolAmina/silver-connect-backend) [![Live](https://img.shields.io/badge/Live_Demo-BB86FC?style=for-the-badge&logo=vercel&logoColor=black)](https://silver-connection.vercel.app/)
+[![Frontend](https://img.shields.io/badge/Frontend-5E2B97?style=for-the-badge)](https://github.com/BatoolAmina/silver-connect) [![Backend](https://img.shields.io/badge/Backend-7F3FBF?style=for-the-badge)](https://github.com/BatoolAmina/silver-connect-backend) [![Live](https://img.shields.io/badge/Live_Demo-BB86FC?style=for-the-badge)](https://silver-connection.vercel.app/)
 
 ---
 
@@ -123,7 +119,7 @@ A professional business website I developed with a responsive layout, clear bran
 
 `React.js` `Tailwind CSS`
 
-[![GitHub](https://img.shields.io/badge/GitHub-5E2B97?style=for-the-badge&logo=github)](https://github.com/BatoolAmina/bandhu-enterprises) [![Live](https://img.shields.io/badge/Live_Site-BB86FC?style=for-the-badge&logo=googlechrome&logoColor=black)](https://bandhuenterprises.in)
+[![GitHub](https://img.shields.io/badge/GitHub-5E2B97?style=for-the-badge)](https://github.com/BatoolAmina/bandhu-enterprises) [![Live](https://img.shields.io/badge/Live_Site-BB86FC?style=for-the-badge)](https://bandhuenterprises.in)
 
 ---
 
@@ -132,7 +128,7 @@ A document similarity tool that works across multiple file formats, compares tex
 
 `Python` `NLP` `Streamlit`
 
-[![GitHub](https://img.shields.io/badge/GitHub-5E2B97?style=for-the-badge&logo=github)](https://github.com/BatoolAmina/PlagiarismCheck) [![Live](https://img.shields.io/badge/Live_Demo-BB86FC?style=for-the-badge&logo=streamlit&logoColor=black)](https://plagiarismcheck.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-5E2B97?style=for-the-badge)](https://github.com/BatoolAmina/PlagiarismCheck) [![Live](https://img.shields.io/badge/Live_Demo-BB86FC?style=for-the-badge)](https://plagiarismcheck.streamlit.app/)
 
 ---
 
@@ -141,7 +137,7 @@ A curated place to find hidden internships, remote opportunities, and niche hiri
 
 `HTML` `CSS` `JavaScript`
 
-[![GitHub](https://img.shields.io/badge/GitHub-5E2B97?style=for-the-badge&logo=github)](https://github.com/BatoolAmina/Hidden-Hiring-Gems) [![Live](https://img.shields.io/badge/Live_Demo-BB86FC?style=for-the-badge&logo=github&logoColor=black)](https://batoolamina.github.io/Hidden-Hiring-Gems/)
+[![GitHub](https://img.shields.io/badge/GitHub-5E2B97?style=for-the-badge)](https://github.com/BatoolAmina/Hidden-Hiring-Gems) [![Live](https://img.shields.io/badge/Live_Demo-BB86FC?style=for-the-badge)](https://batoolamina.github.io/Hidden-Hiring-Gems/)
 
 ---
 
@@ -150,12 +146,12 @@ My personal portfolio, with project case studies, live demo links, and a downloa
 
 `Next.js` `Tailwind CSS` `Vercel`
 
-[![Live](https://img.shields.io/badge/Live_Site-BB86FC?style=for-the-badge&logo=vercel&logoColor=black)](https://batool-portfolio.vercel.app/)
+[![Live](https://img.shields.io/badge/Live_Site-BB86FC?style=for-the-badge)](https://batool-portfolio.vercel.app/)
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+---
 
 <!-- ═══════════════ EXPERIENCE ═══════════════ -->
-<h2 align="center"><img src="assets/h-experience.svg" width="100%" alt="Experience"/></h2>
+## Experience
 
 | Role | Company | Duration |
 |:--|:--|:--|
@@ -166,21 +162,20 @@ My personal portfolio, with project case studies, live demo links, and a downloa
 - **Digipodium:** I built and shipped full-stack features with React.js, Node.js, Express.js, and MongoDB, designed RESTful APIs for authentication, data management, and business logic, and tuned MongoDB queries and indexing to improve response times.
 - **ShuttrTroops:** I built responsive, component-based UI layouts in React.js and Tailwind CSS for client-facing applications, turning design requirements into working interfaces.
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+---
 
 <!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
-<h2 align="center"><img src="assets/h-achievements.svg" width="100%" alt="Achievements"/></h2>
+## Achievements
 
 **First Place — Siemens Healthineers SHIFT Innovation Think Tank Program** *(June 2025)* — a program focused on innovation, problem-solving, and emerging healthcare technologies.
 
 **Verizon — Cloud Platform Job Simulation** · Forage *(Jun 2025)*
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+---
 
 <!-- ═══════════════ OPEN SOURCE ═══════════════ -->
-<h2 align="center"><img src="assets/h-open-source.svg" width="100%" alt="Open Source"/></h2>
+## Open Source
 
-<p align="center"><img src="assets/gssoc-stats.svg" width="100%" alt="GSSoC 2026 stats"/></p>
 
 ### GirlScript Summer of Code (GSSoC) 2026
 I started the program with 5 merged PRs and a lot to learn. Looking back, the journey took me from my first PR to the Top 2%.
@@ -199,18 +194,18 @@ Along the way I worked through unfamiliar codebases, debugging, review comments,
 ### Active Open Source Contributor
 I contribute bug fixes, features, responsive design, accessibility improvements, documentation, and UI/UX work across MERN Stack, React.js, Next.js, Node.js, and AI-powered applications.
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+---
 
 <!-- ═══════════════ EDUCATION ═══════════════ -->
-<h2 align="center"><img src="assets/h-education.svg" width="100%" alt="Education"/></h2>
+## Education
 
 - **M.Tech, Computer Science and Engineering** — Integral University, Lucknow *(Jul 2026 – Aug 2028)*
 - **B.Tech, Computer Science and Engineering** — Integral University, Lucknow *(Sep 2022 – May 2026)* · Grade: 8.7
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+---
 
 <!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
-<h2 align="center"><img src="assets/h-github-analytics.svg" width="100%" alt="GitHub Analytics"/></h2>
+## GitHub Analytics
 
 <div align="center">
 
@@ -223,19 +218,12 @@ I contribute bug fixes, features, responsive design, accessibility improvements,
 
 <img src="https://github-profile-trophy.vercel.app/?username=BatoolAmina&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7"/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BatoolAmina/BatoolAmina/output/github-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/BatoolAmina/BatoolAmina/output/github-snake.svg" width="100%" alt="Contribution snake"/>
-  </picture>
-</p>
-
 </div>
 
 <!-- ═══════════════ FOOTER ═══════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=BB86FC&center=true&vCenter=true&width=800&lines=Building+Modern+AI+Powered+Applications;Open+to+Freelance+Projects;Open+to+Software+Engineering+Roles" alt="Footer typing"/>
+<p>Building modern AI-powered applications. Open to freelance projects and software engineering roles.</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB86FC,50:5E2B97,100:0D1117&height=140&section=footer" width="100%"/>
 

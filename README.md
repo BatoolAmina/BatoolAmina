@@ -217,10 +217,6 @@ I contribute bug fixes, features, responsive design, accessibility improvements,
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BatoolAmina&theme=midnight-purple&hide_border=true"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=BatoolAmina&bg_color=0D1117&color=BB86FC&line=BB86FC&point=FFFFFF&area=true&hide_border=true"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=BatoolAmina&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7"/>
-
 </div>
 
 <!-- ═══════════════ FOOTER ═══════════════ -->

@@ -3,7 +3,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B4E,40:5E2B97,70:8A2BE2,100:BB86FC&height=280&section=header&text=Batool%20Amina&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI-Powered%20Web%20Apps&descSize=20&descAlignY=58" width="100%" alt="Batool Amina"/>
 
-<p><b>Full Stack Developer</b> &nbsp;|&nbsp; MERN Stack and Next.js &nbsp;|&nbsp; AI-Powered Web Applications<br/>Open Source Contributor at GSSoC 2026 &nbsp;|&nbsp; First Place, Siemens Healthineers SHIFT</p>
+<a href="https://github.com/BatoolAmina">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&height=60&lines=Full+Stack+Developer;MERN+Stack+and+Next.js+Developer;AI+Powered+Web+Application+Developer;Open+Source+Contributor+at+GSSoC+2026;First+Place+at+Siemens+Healthineers+SHIFT;Building+Scalable+Modern+Applications" alt="Typing animation"/>
+</a>
 
 <br/><br/>
 

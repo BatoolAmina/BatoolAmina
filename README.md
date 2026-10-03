@@ -94,6 +94,7 @@ I built Redline for **Hack-A-Throne 2026** (AI & Intelligent Systems Track). It 
 
 `Next.js` `React.js` `RAG` `AI`
 
+[![GitHub](https://img.shields.io/badge/GitHub-5E2B97?style=for-the-badge)](https://github.com/BatoolAmina/redline-ai)
 [![Live](https://img.shields.io/badge/Live_Demo-BB86FC?style=for-the-badge)](https://red-line-ai.netlify.app/)
 
 ---

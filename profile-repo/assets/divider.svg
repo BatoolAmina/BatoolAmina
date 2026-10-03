@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" viewBox="0 0 900 24">
+  <defs>
+    <linearGradient id="base" x1="0" x2="1">
+      <stop offset="0" stop-color="#5E2B97" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#8A2BE2" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#BB86FC" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" x2="1">
+      <stop offset="0" stop-color="#BB86FC" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E0C3FF"/>
+      <stop offset="1" stop-color="#BB86FC" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="2.2"/></filter>
+  </defs>
+  <rect x="0" y="11" width="900" height="2" fill="url(#base)"/>
+  <g>
+    <rect x="-160" y="10" width="160" height="4" fill="url(#glow)" filter="url(#blur)"/>
+    <rect x="-160" y="11" width="160" height="2" fill="url(#glow)"/>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="1060 0" dur="3.6s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(450 12)">
+    <rect x="-5" y="-5" width="10" height="10" fill="#8A2BE2" transform="rotate(45)">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
+    </rect>
+    <circle r="9" fill="none" stroke="#BB86FC" stroke-width="1">
+      <animate attributeName="r" values="6;16" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

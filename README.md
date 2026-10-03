@@ -1,17 +1,22 @@
 <!-- ═══════════════ HERO ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:5E2B97,100:BB86FC&height=260&section=header&text=Batool%20Amina&fontSize=70&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI-Powered%20Web%20Apps&descSize=20&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=280&section=header&text=Batool%20Amina&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI-Powered%20Web%20Apps&descSize=20&descAlignY=58" width="100%" alt="Batool Amina"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+%7C+Next.js+Developer;AI+Powered+Web+Application+Developer;Open+Source+Contributor+%E2%80%94+GSSoC+2026+Top+2%25;1st+Place+%E2%80%94+Siemens+Healthineers+SHIFT;Building+Scalable+Modern+Applications" alt="Typing SVG"/>
+<a href="https://github.com/BatoolAmina">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&height=60&lines=Full+Stack+Developer;MERN+Stack+%7C+Next.js+Developer;AI+Powered+Web+Application+Developer;Open+Source+Contributor+%E2%80%94+GSSoC+2026+Top+2%25;1st+Place+%E2%80%94+Siemens+Healthineers+SHIFT;Building+Scalable+Modern+Applications" alt="Typing animation"/>
+</a>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/batool-amina/"><img src="https://img.shields.io/badge/LinkedIn-7F3FBF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/BatoolAmina"><img src="https://img.shields.io/badge/GitHub-5E2B97?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:batool.amina.110@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=BatoolAmina&label=Profile%20Views&color=8A2BE2&style=flat"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=BatoolAmina&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/BatoolAmina?label=GITHUB%20FOLLOWERS&style=for-the-badge&color=5E2B97&logo=github&logoColor=white" alt="Followers"/>
 
 </div>
 
@@ -214,7 +219,7 @@ I contribute bug fixes, features, responsive design, accessibility improvements,
 <!-- ═══════════════ FOOTER ═══════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=BB86FC&center=true&vCenter=true&width=800&lines=Building+Modern+AI+Powered+Applications;Open+to+Freelance+Projects;Open+to+Software+Engineering+Roles" alt="Footer typing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=BB86FC&center=true&vCenter=true&width=800&lines=Building+Modern+AI+Powered+Applications;Open+to+Freelance+Projects;Open+to+Software+Engineering+Roles" alt="Footer typing"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB86FC,50:5E2B97,100:0D1117&height=140&section=footer" width="100%"/>
 

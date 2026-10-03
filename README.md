@@ -53,20 +53,11 @@ const batool = {
 ---
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
-## Tech Stack
+## Technology Stack
 
-<div align="center">
-
-| | |
-|:--|:--|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=flat-square) ![Python](https://img.shields.io/badge/Python-6A0DAD?style=flat-square) ![Java](https://img.shields.io/badge/Java-7F3FBF?style=flat-square) |
-| **Frontend** | ![React](https://img.shields.io/badge/React.js-8A2BE2?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-5E2B97?style=flat-square) ![HTML5](https://img.shields.io/badge/HTML5-7B2CBF?style=flat-square) ![CSS3](https://img.shields.io/badge/CSS3-6A0DAD?style=flat-square) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-9D4EDD?style=flat-square) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-7B2CBF?style=flat-square) ![Express](https://img.shields.io/badge/Express.js-6A0DAD?style=flat-square) ![REST](https://img.shields.io/badge/REST_APIs-8A2BE2?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-5E2B97?style=flat-square) ![OAuth](https://img.shields.io/badge/OAuth_2.0-7B2CBF?style=flat-square) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-7B2CBF?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-9D4EDD?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-5A189A?style=flat-square) |
-| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-8A2BE2?style=flat-square) ![HuggingFace](https://img.shields.io/badge/Hugging_Face-9D4EDD?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-6A0DAD?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-7F3FBF?style=flat-square) |
-| **Tools & Deployment** | ![Git](https://img.shields.io/badge/Git-7F3FBF?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-5E2B97?style=flat-square) ![Postman](https://img.shields.io/badge/Postman-8A2BE2?style=flat-square) ![Vercel](https://img.shields.io/badge/Vercel-6A0DAD?style=flat-square) ![Render](https://img.shields.io/badge/Render-7B2CBF?style=flat-square) |
-
-</div>
+| Languages | Frameworks & Libraries | Databases | Tools & Platforms | AI / ML | Authentication & Security |
+|-----------|------------------------|-----------|-------------------|---------|---------------------------|
+| ![Java](https://img.shields.io/badge/Java-7F3FBF?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-6A0DAD?logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-8A2BE2?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-5E2B97?logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-7B2CBF?logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-6A0DAD?logo=express&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-9D4EDD?logo=tailwindcss&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-7B2CBF?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-5A189A?logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-7F3FBF?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-5E2B97?logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-8A2BE2?logo=postman&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-7B2CBF?logo=visualstudiocode&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-6A0DAD?logo=vercel&logoColor=white) | ![NLP](https://img.shields.io/badge/NLP-8A2BE2?logo=ai&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-9D4EDD?logo=huggingface&logoColor=white) ![LLM](https://img.shields.io/badge/LLM_Integration-7B2CBF?logo=openai&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-6A0DAD?logo=google&logoColor=white) ![RoBERTa](https://img.shields.io/badge/RoBERTa-5A189A?logo=meta&logoColor=white) ![BiLSTM](https://img.shields.io/badge/BiLSTM-7F3FBF?logo=tensorflow&logoColor=white) ![LSTM](https://img.shields.io/badge/LSTM-9D4EDD?logo=tensorflow&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-5E2B97?logo=jsonwebtokens&logoColor=white) ![OAuth](https://img.shields.io/badge/OAuth2.0-7B2CBF?logo=google&logoColor=white) ![GitHubAuth](https://img.shields.io/badge/GitHubAuth-6A0DAD?logo=github&logoColor=white) |
 
 ---
 

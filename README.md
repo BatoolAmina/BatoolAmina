@@ -13,8 +13,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=BatoolAmina&label=Profile%20Views&color=8A2BE2&style=for-the-badge&v=2" alt="Profile views"/> 
-<img src="https://img.shields.io/github/followers/BatoolAmina?label=GITHUB%20FOLLOWERS&style=for-the-badge&color=5E2B97" alt="Followers"/> </div>
+<img src="https://profile-views.batool-amina-110.workers.dev/" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/BatoolAmina?label=GITHUB%20FOLLOWERS&style=for-the-badge&color=5E2B97" alt="Followers"/>
+
 </div>
 
 ---

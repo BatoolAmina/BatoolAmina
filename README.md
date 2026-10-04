@@ -13,7 +13,8 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=BatoolAmina&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=batoolamina&label=PROFILE+VIEWS&color=blueviolet&style=flat)
+[![GitHub Followers](https://img.shields.io/github/followers/batoolamina?label=GITHUB%20FOLLOWERS&style=flat)](https://github.com/batoolamina) alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/BatoolAmina?label=GITHUB%20FOLLOWERS&style=for-the-badge&color=5E2B97" alt="Followers"/>
 
 </div>

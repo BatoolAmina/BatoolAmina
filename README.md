@@ -10,7 +10,7 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/batool-amina/"><img src="https://img.shields.io/badge/LinkedIn-7F3FBF?style=for-the-badge"/></a>
-<a href="https://github.com/BatoolAmina"><img src="https://img.shields.io/badge/GitHub-5E2B97?style=for-the-badge"/></a>
+<img src="https://hits.sh/github.com/BatoolAmina.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=8A2BE2" alt="Profile views"/>
 <a href="mailto:batool.amina.110@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge"/></a>
 
 <br/><br/>

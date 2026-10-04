@@ -3,20 +3,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B4E,40:5E2B97,70:8A2BE2,100:BB86FC&height=280&section=header&text=Batool%20Amina&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI-Powered%20Web%20Apps&descSize=20&descAlignY=58" width="100%" alt="Batool Amina"/>
 
-<a href="https://github.com/BatoolAmina">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&height=60&lines=Full+Stack+Developer;MERN+Stack+and+Next.js+Developer;AI+Powered+Web+Application+Developer;Open+Source+Contributor+at+GSSoC+2026;First+Place+at+Siemens+Healthineers+SHIFT;Building+Scalable+Modern+Applications" alt="Typing animation"/>
-</a>
+<a href="https://github.com/BatoolAmina"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&height=60&lines=Full+Stack+Developer;MERN+Stack+and+Next.js+Developer;AI+Powered+Web+Application+Developer;Open+Source+Contributor+at+GSSoC+2026;First+Place+at+Siemens+Healthineers+SHIFT;Building+Scalable+Modern+Applications" alt="Typing animation"/></a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/batool-amina/"><img src="https://img.shields.io/badge/LinkedIn-7F3FBF?style=for-the-badge"/></a>
-
-<a href="mailto:batool.amina.110@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/batool-amina/"><img src="https://img.shields.io/badge/LinkedIn-7F3FBF?style=for-the-badge" alt="LinkedIn"/></a>
+<a href="https://github.com/BatoolAmina"><img src="https://img.shields.io/badge/GitHub-5E2B97?style=for-the-badge" alt="GitHub"/></a>
+<a href="mailto:batool.amina.110@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge" alt="Email"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=BatoolAmina&label=Profile%20Views&color=8A2BE2&style=flat" />
-<a href="https://github.com/BatoolAmina"><img src="https://img.shields.io/badge/GitHub-5E2B97?style=for-the-badge"/></a>
+<img src="https://komarev.com/ghpvc/?username=BatoolAmina&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/BatoolAmina?label=GITHUB%20FOLLOWERS&style=for-the-badge&color=5E2B97" alt="Followers"/>
 
 </div>
@@ -86,8 +83,7 @@ I built Redline for **Hack-A-Throne 2026** (AI & Intelligent Systems Track). It 
 
 `Next.js` `React.js` `RAG` `AI`
 
-[![GitHub](https://img.shields.io/badge/GitHub-5E2B97?style=for-the-badge)](https://github.com/BatoolAmina/redline-ai)
-[![Live](https://img.shields.io/badge/Live_Demo-BB86FC?style=for-the-badge)](https://red-line-ai.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-5E2B97?style=for-the-badge)](https://github.com/BatoolAmina/redline-ai) [![Live](https://img.shields.io/badge/Live_Demo-BB86FC?style=for-the-badge)](https://red-line-ai.netlify.app/)
 
 ---
 
@@ -162,15 +158,13 @@ My personal portfolio, with project case studies, live demo links, and a downloa
 <!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
 ## Achievements
 
-**First Place — Siemens Healthineers SHIFT Innovation Think Tank Program** *(June 2025)* — a program focused on innovation, problem-solving, and emerging healthcare technologies.
-
-**Verizon — Cloud Platform Job Simulation** · Forage *(Jun 2025)*
+- **First Place, Siemens Healthineers SHIFT Innovation Think Tank Program** *(June 2025)*: a program focused on innovation, problem-solving, and emerging healthcare technologies.
+- **Verizon, Cloud Platform Job Simulation** (Forage) *(June 2025)*
 
 ---
 
 <!-- ═══════════════ OPEN SOURCE ═══════════════ -->
 ## Open Source
-
 
 ### GirlScript Summer of Code (GSSoC) 2026
 I started the program with 5 merged PRs and a lot to learn. Looking back, the journey took me from my first PR to the Top 2%.
@@ -184,7 +178,7 @@ I started the program with 5 merged PRs and a lot to learn. Looking back, the jo
 Along the way I worked through unfamiliar codebases, debugging, review comments, and fixes, and I grew more confident with every contribution. Thank you to [GirlScript Foundation](https://www.linkedin.com/company/girlscript-foundation/), [GirlScript Summer of Code](https://www.linkedin.com/company/girlscriptsoc/), and all the mentors, maintainers, reviewers, and fellow contributors.
 
 ### GirlScript Summer of Code (GSSoC) 2024
-- Selected as an **Extended Contributor**, contributing to community-driven and API-focused open-source projects — improving functionality, documentation, and user experience.
+- Selected as an **Extended Contributor**, contributing to community-driven and API-focused open-source projects, and improving functionality, documentation, and user experience.
 
 ### Active Open Source Contributor
 I contribute bug fixes, features, responsive design, accessibility improvements, documentation, and UI/UX work across MERN Stack, React.js, Next.js, Node.js, and AI-powered applications.
@@ -194,8 +188,8 @@ I contribute bug fixes, features, responsive design, accessibility improvements,
 <!-- ═══════════════ EDUCATION ═══════════════ -->
 ## Education
 
-- **M.Tech, Computer Science and Engineering** — Integral University, Lucknow *(Jul 2026 – Aug 2028)*
-- **B.Tech, Computer Science and Engineering** — Integral University, Lucknow *(Sep 2022 – May 2026)* · Grade: 8.7
+- **M.Tech, Computer Science and Engineering**, Integral University, Lucknow *(Jul 2026 – Aug 2028)*
+- **B.Tech, Computer Science and Engineering**, Integral University, Lucknow *(Sep 2022 – May 2026)* · Grade: 8.7
 
 ---
 
@@ -204,18 +198,20 @@ I contribute bug fixes, features, responsive design, accessibility improvements,
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=BatoolAmina&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&include_all_commits=true&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatoolAmina&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=BatoolAmina&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatoolAmina&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC" alt="Top languages"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BatoolAmina&theme=midnight-purple&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BatoolAmina&theme=midnight-purple&hide_border=true" alt="Streak stats"/>
 
 </div>
+
+---
 
 <!-- ═══════════════ FOOTER ═══════════════ -->
 <div align="center">
 
 <p>Building modern AI-powered applications. Open to freelance projects and software engineering roles.</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB86FC,50:5E2B97,100:0D1117&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB86FC,50:5E2B97,100:0D1117&height=140&section=footer" width="100%" alt=""/>
 
 </div>
